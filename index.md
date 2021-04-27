@@ -4,6 +4,8 @@ layout: homepage
 
 ## About
 
+Hello
+
 | | |
 | -------- | -------- |
 | ipa     | [ˈnɪk ˈdænɪs] |
@@ -18,7 +20,7 @@ Campus Box 1073
 One Brookings Drive
 St. Louis, MO 63130-4899
 ```
-minimal light test
+
 
 ## Research interests
 
