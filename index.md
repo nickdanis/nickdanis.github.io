@@ -7,7 +7,13 @@
 | email     | nsdanis@wustl.edu   |
 | web | https://nickdanis.com |
 
-
+```
+Washington University in St. Louis
+Linguistics Program
+Campus Box 1073
+One Brookings Drive
+St. Louis, MO 63130-4899
+```
 
 ## Research interests
 
