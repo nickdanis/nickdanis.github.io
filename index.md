@@ -4,19 +4,6 @@ layout: homepage
 
 ## Basic info
 
-
-- **ipa**: [ˈnɪk ˈdænɪs]
-- **pronouns**: he/him
-- 
-
-| | |
-| -------- | -------- |
-| ipa     | [ˈnɪk ˈdænɪs] |
-| pronouns     | he/him     |
-| email     | nsdanis@wustl.edu   |
-| web | https://nickdanis.com |
-
-
 Washington University in St. Louis
 Linguistics Program
 Campus Box 1073
