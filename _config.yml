@@ -1,14 +1,6 @@
 title: Nick Danis
-#logo: /assets/img/f2.jpg
+#logo: /assets/img/logo.png
 description: Lecturer in Linguistics
 show_downloads: false
 google_analytics:
-markdown: kramdown
-kramdown:
-  toc_levels: 1..2
 theme: jekyll-theme-minimal
-pronouns: he/him
-pronunciation: "[ˈnɪk ˈdænɪs]"
-email: nsdanis@wustl.edu
-affiliation: Washington University in St. Louis
-position: Lecturer in Linguistics

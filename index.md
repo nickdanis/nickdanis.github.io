@@ -1,8 +1,9 @@
-# CV
-{:.no_toc}
+---
+layout: default
+---
 
-* TOC
-{:toc}
+# CV
+
 
 ## Research interests
 
