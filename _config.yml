@@ -4,6 +4,8 @@ description: Lecturer in Linguistics
 show_downloads: false
 google_analytics:
 markdown: kramdown
+kramdown:
+  toc_levels: 1..2
 theme: jekyll-theme-minimal
 pronouns: he/him
 pronunciation: "[ˈnɪk ˈdænɪs]"
