@@ -5,3 +5,4 @@ show_downloads: false
 google_analytics:
 markdown: kramdown
 theme: jekyll-theme-minimal
+pronouns: he/him 
