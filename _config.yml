@@ -5,4 +5,8 @@ show_downloads: false
 google_analytics:
 markdown: kramdown
 theme: jekyll-theme-minimal
-pronouns: he/him 
+pronouns: he/him
+pronunciation: "[ˈnɪk ˈdænɪs]"
+email: nsdanis@wustl.edu
+affiliation: Washington University in St. Louis
+position: Lecturer in Linguistics
