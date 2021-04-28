@@ -9,7 +9,16 @@ postal1: Capmus Box 1073
 postal2: One Brookings Drive
 postal3: St. Louis, MO 63130
 show_downloads: false
-google_analytics:
+#google_analytics:
+
+social:
+  scholar: 'https://scholar.google.com/citations?user=wAsnRk4AAAAJ'
+  github: 'https://github.com/nickdanis'
+  linkedin: 'https://www.linkedin.com/in/nickdanis/'
+  orcid: 'http://orcid.org/0000-0002-1854-0000'
+  personal: 'https://www.nickdanis.com/'
+
+
 theme: jekyll-theme-minimal
 markdown: kramdown
 kramdown:
