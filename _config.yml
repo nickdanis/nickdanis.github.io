@@ -3,7 +3,7 @@ title: Nick Danis
 description: Lecturer
 show_downloads: false
 google_analytics: 
-remote_theme: gebeto/researcher
+remote_theme: ankitsultana/researcher@gem
 
 footer: "Page design by Ankit Sultana"
 footer_url: "https://github.com/ankitsultana"
