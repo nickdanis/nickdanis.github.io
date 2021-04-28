@@ -1,10 +1,11 @@
 # CV
+added toc
 
 ## Research interests
 
 - Phonology, Optimality Theory, Computational linguistics, African languages
 
-header 300
+
 
 ## Academic Positions
 
