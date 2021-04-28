@@ -83,7 +83,7 @@ title: CV
 | L44 Ling 312 | Phonetics | Spring 2019, 2020 |
 | L44 Ling 313 | Phonological Analysis | Fall 2019, 2020, 2021 |
 | L44 Ling 317 | Introduction to Computational Linguistics | Spring 2019, 2020, 2021 |
-| L44 Ling 427 | Computation and Learnability in Linguistic Theory | Fall 2021; Spring 2020 | 
+| L44 Ling 427 | Computation and Learnability in Linguistic Theory | Fall 2021; Spring 2020 |
 
 ### Princeton University
 
@@ -103,5 +103,3 @@ title: CV
 |---|---|---|
 | 01:615:190 | Linguistic Perspectives on Language: Invented Languages | Fall 2016; Spring 2016, 2017 |
 | 01:615:201 | Introduction to Linguistic Theory | Fall 2013 (TA); Spring 2014; Summer 2015 |
-
-Washington University in St. Louis | Linguistics Program | Campus Box 1073 | One Brookings Drive | St. Louis, MO 63130-4899
