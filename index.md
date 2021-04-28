@@ -1,4 +1,6 @@
 # CV
+{:.no_toc}
+
 * TOC
 {:toc}
 
