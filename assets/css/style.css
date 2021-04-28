@@ -11,3 +11,10 @@ header {
   a:hover, a:focus {
     color:rgb(0, 18, 27);
   }
+  ul {
+    font-size: 0;
+  }
+  ul li {
+    font-size: 14px; font-size:1.4rem;
+    display: inline;
+  }
