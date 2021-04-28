@@ -1,4 +1,5 @@
 title: Nick Danis
 description: "he/him, [ˈnɪk ˈdænɪs]"
 #theme: jekyll-theme-minimal
-remote_theme: ankitsultana/researcher@gem
+#remote_theme: ankitsultana/researcher@gem
+theme: minima
