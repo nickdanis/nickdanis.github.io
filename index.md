@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-section 750
+header 320
 
 ## Research interests
 
