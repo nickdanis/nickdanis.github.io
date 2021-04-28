@@ -91,6 +91,12 @@ svg {
     }
   }
 
+  @media print, screen and (max-height: 1050px) {
+    .toc {
+      display: none;
+    }
+  }
+
   @media print, screen and (max-width: 720px) {
     body {
       word-wrap:break-word;
