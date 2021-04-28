@@ -1,7 +1,6 @@
 ---
 layout: default
 title: CV
-toc: false
 ---
 
 ## Research interests

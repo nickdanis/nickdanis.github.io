@@ -6,6 +6,10 @@ This site uses a modified version of the **minimal** theme available below:
 
 ![Thumbnail of minimal](thumbnail.png)
 
+Also uses:
+
+- https://github.com/allejo/jekyll-toc
+
 To test local build:
 
 ```
