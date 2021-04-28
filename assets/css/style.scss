@@ -143,3 +143,11 @@ svg {
         display: none;
     }
   }
+
+@media print {
+  p, h1, h2, h3, h4 {
+    break-after: avoid-page;
+    orphans: 3;
+    widows: 3;
+  }
+}
