@@ -16,15 +16,15 @@ Washington University in St. Louis
 
 ## Academic Positions
 
-- 2019-present. Lecturer, Washington University in St. Louis
-- 2017-2019. Lecturer, Princeton University (10%-60% FTE)
+- 2019-present, Lecturer, Washington University in St. Louis
+- 2017-2019, Lecturer, Princeton University (10%-60% FTE)
 
 ## Education
 
-- 2017. PhD in Linguistics, Rutgers University
-- 2011. MA in Applied Linguistics, Boston University
-- 2008. B.A. in Linguistics, *cum laude*, Boston University
-- 2008. B.S. in Film and Television, *cum laude*, Boston University
+- 2017, PhD in Linguistics, Rutgers University
+- 2011, MA in Applied Linguistics, Boston University
+- 2008, B.A. in Linguistics, *cum laude*, Boston University
+- 2008, B.S. in Film and Television, *cum laude*, Boston University
 
 ## Publications
 
