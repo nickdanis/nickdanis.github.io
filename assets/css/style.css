@@ -11,10 +11,12 @@ header {
   a:hover, a:focus {
     color:rgb(0, 18, 27);
   }
-  ul {
-    font-size: 0;
-  }
-  ul li {
-    font-size: 14px; font-size:1.4rem;
-    display: inline;
-  }
+ul.info {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
