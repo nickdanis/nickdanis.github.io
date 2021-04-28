@@ -1,8 +1,6 @@
+- [https://www.nickdanis.com](https://www.nickdanis.com/)
+- [nsdanis@wustl.edu](mailto:nsdanis@wustl.edu)
 
-
-
-| he/him | [ˈnɪk ˈdænɪs] | [https://www.nickdanis.com](https://www.nickdanis.com/) | [nsdanis@wustl.edu](mailto:nsdanis@wustl.edu) |
-|---|---|---|---|
 
 
 
@@ -53,14 +51,11 @@
 
 - Danis, Nick, Kate Mesh, and Hyunsuk Sung (eds.). 2011. [Proceedings of the 35th Annual Conference on Language Development](http://www.cascadilla.com/bucld35toc.html). Somerville, MA: Cascadilla Press.
 
-### Presentations & Posters
+## Presentations
 
-- Danis, Nick. 2020. Phonology needs geometry: Implicit axioms in segmental representation. Poster presented at the 2020 Annual Meeting of the LSA. 
-- Danis, Nick and Adam Jardine. Q-Theory Representations are logically equivalent to Autosegmental Representations. Talk accepted to SCiL, co-meeting with the LSA 2019. 
-- Danis, Nick. [Cross-category agreement as reference to general dominance](http://phonology.ucsd.edu/wp-content/uploads/sites/54/2018/10/Danis-poster.pdf). AMP 2018, UC San Diego. Oct 5-7, 2018. Poster.
-- Danis, Nick, Jeffrey Heinz and Adam Jardine. 2018. How constraints refer to nothing: The correct notion of substructure for phonology. Poster that was present at the 2018 LSA. 
-- Danis, Nick. 2018. A theory of cross-category agreement and new evidence for unified place features. Poster that never made it to the 2018 LSA due to inclement weather. 
-- Danis, Nick. 2017. Phonetics of Yoruba vowel deletion: durational evidence for hidden structure. ACAL 48, Indiana University. March 30-April 2, 2017. Poster.
+### Oral
+
+- Danis, Nick and Adam Jardine. 2019. Q-Theory Representations are logically equivalent to Autosegmental Representations. SCiL, co-meeting with the LSA 2019. 
 - Danis, Nick. 2016. Major place harmony and the (reduced) role of representation: Evidence from Ngbaka. AMP 2016. USC. October 21-23, 2016.
 - Danis, Nick. 2016. Cross-category vowel-consonant interactions in Aghem and Vietnamese. Presented at the University of Chicago Phonology Group, May 13, 2016.
 - Danis, Nick. 2015. Markedness and Complex Segments: Evidence from Simplification Processes. 8th World Congress of African Linguistics. Presented Talk. Kyoto University. August 21, 2015.
@@ -68,5 +63,20 @@
 - Danis, Nick. 2015. Complex Segments Made Simple: Markedness and Doubly-Articulated Stops. 46th Annual Conference on African Linguistics. Presented Talk. University of Oregon. March 27, 2015.
 - Danis, Nick, Jonathan Barnes, and Catherine O’Connor. 2011. Downstep and Contour Formation in Medumba: A Grassfields Bantu Language. 42th Annual Conference on African Linguistics. Presented Talk. University of Maryland.
 
+### Poster
+
+- Danis, Nick. 2020. Phonology needs geometry: Implicit axioms in segmental representation. Poster presented at the 2020 Annual Meeting of the LSA. 
+- Danis, Nick. [Cross-category agreement as reference to general dominance](http://phonology.ucsd.edu/wp-content/uploads/sites/54/2018/10/Danis-poster.pdf). AMP 2018, UC San Diego. Oct 5-7, 2018. Poster.
+- Danis, Nick, Jeffrey Heinz and Adam Jardine. 2018. How constraints refer to nothing: The correct notion of substructure for phonology. Poster that was present at the 2018 LSA. 
+- Danis, Nick. 2018. A theory of cross-category agreement and new evidence for unified place features. Poster that never made it to the 2018 LSA due to inclement weather. 
+- Danis, Nick. 2017. Phonetics of Yoruba vowel deletion: durational evidence for hidden structure. ACAL 48, Indiana University. March 30-April 2, 2017. Poster.
+
+## Teaching
+
+### Washington University in St. Louis
+
+| Course | Name | Semesters |
+|---|---|---|
+L44 Ling 148 | The Linguistics of Constructed Languages | Fall 2019, 2020, 2021, Spring 2021, Summer 2021 |
 
 Washington University in St. Louis | Linguistics Program | Campus Box 1073 | One Brookings Drive | St. Louis, MO 63130-4899
