@@ -1,3 +1,13 @@
 title: Nick Danis
-description: lecturer in linguistics
-theme: jekyll-theme-researcher
+#logo: /assets/img/logo.png
+description: Lecturer
+show_downloads: false
+google_analytics: 
+remote_theme: gebeto/researcher
+
+footer: "Page design by Ankit Sultana"
+footer_url: "https://github.com/ankitsultana"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
