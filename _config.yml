@@ -1,3 +1,4 @@
 title: Nick Danis
 description: "he/him, [ˈnɪk ˈdænɪs]"
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote-theme: toddstoffer/jekyll-academic-resume
