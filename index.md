@@ -1,8 +1,6 @@
-- [https://www.nickdanis.com](https://www.nickdanis.com/)
-- [nsdanis@wustl.edu](mailto:nsdanis@wustl.edu)
-
-
-
+---
+layout: default
+---
 
 ## Research interests
 
