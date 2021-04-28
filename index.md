@@ -103,3 +103,4 @@ title: CV
 |---|---|---|
 | 01:615:190 | Linguistic Perspectives on Language: Invented Languages | Fall 2016; Spring 2016, 2017 |
 | 01:615:201 | Introduction to Linguistic Theory | Fall 2013 (TA); Spring 2014; Summer 2015 |
+
