@@ -1,6 +1,30 @@
 title: Nick Danis
 #logo: /assets/img/logo.png
 description: Lecturer in Linguistics
+email: nsdanis@wustl.edu
+pronouns: he/him
+pronunciation: "[ˈnɪk ˈdænɪs]"
+affiliation: Washington University in St. Louis
+postal1: Capmus Box 1073
+postal2: One Brookings Drive
+postal3: St. Louis, MO 63130
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  toc_levels: 1..2
+
+plugins:
+  - jekyll-toc
+
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: toc-sublist
+  item_class: toc-entry
+  item_prefix: toc-

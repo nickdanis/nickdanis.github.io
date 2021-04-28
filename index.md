@@ -1,9 +1,7 @@
 ---
 layout: default
+title: CV
 ---
-
-# CV
-
 
 ## Research interests
 
