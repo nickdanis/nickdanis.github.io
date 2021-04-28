@@ -1,7 +1,3 @@
----
-layout: homepage
----
-
 ## Basic info
 
 Washington University in St. Louis

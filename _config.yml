@@ -1,13 +1,3 @@
 title: Nick Danis
-affiliation: Washington University in St. Louis
-email: nsdanis@wustl.edu
-position: Lecturer in Linguistics
-google_scholar: https://scholar.google.com/citations?user=wAsnRk4AAAAJ
-github_link: https://github.com/nickdanis
-linkedin: http://www.linkedin.com/in/nickdanis
-avatar: ./img/f2.jpg
-#google_analytics: UA-111540567-4
-#favicon: ./assets/img/favicon.png
-#favicon_dark: ./assets/img/favicon-dark.png
-#canonical: https://minimal-light.yyliu.net/
-remote_theme: yaoyao-liu/minimal-light
+description: CV
+theme: minimal
