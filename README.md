@@ -6,3 +6,8 @@ This site uses a modified version of the **minimal** theme available below:
 
 ![Thumbnail of minimal](thumbnail.png)
 
+To test local build:
+
+```
+bundle exec jekyll serve --watch
+```
