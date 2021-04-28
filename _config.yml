@@ -10,6 +10,7 @@ postal2: One Brookings Drive
 postal3: St. Louis, MO 63130
 show_downloads: false
 #google_analytics:
+repo: https://github.com/nickdanis/nickdanis.github.io
 
 social:
   scholar: 'https://scholar.google.com/citations?user=wAsnRk4AAAAJ'
@@ -24,8 +25,6 @@ markdown: kramdown
 kramdown:
   toc_levels: 1..2
 
-plugins:
-  - jekyll-toc
 
 # toc:
 #   min_level: 1
