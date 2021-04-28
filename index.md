@@ -5,12 +5,10 @@ layout: homepage
 ## Basic info
 
 Washington University in St. Louis
-Linguistics Program
-Campus Box 1073
-One Brookings Drive
-St. Louis, MO 63130-4899
-
-t
+<br>Linguistics Program
+<br>Campus Box 1073
+<br>One Brookings Drive
+<br>St. Louis, MO 63130-4899
 
 ## Research interests
 
