@@ -1,5 +1,6 @@
 # CV
-added toc
+* TOC
+{:toc}
 
 ## Research interests
 
