@@ -1,9 +1,3 @@
----
-layout: homepage
----
-
-header 290
-
 ## Research interests
 
 - Phonology, Optimality Theory, Computational linguistics, African languages
