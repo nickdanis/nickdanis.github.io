@@ -1,6 +1,7 @@
 title: Nick Danis
-logo: /assets/img/f2.jpg
-description: Lecturer in linguistics
+#logo: /assets/img/f2.jpg
+description: Lecturer in Linguistics
 show_downloads: false
 google_analytics:
+markdown: kramdown
 theme: jekyll-theme-minimal
