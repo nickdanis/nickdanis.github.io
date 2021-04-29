@@ -6,3 +6,5 @@ cv.md
 cv.pdf
 notes.md
 .jekyll-cache
+.rubocop.yml
+.travis.yml

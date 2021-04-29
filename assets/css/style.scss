@@ -20,9 +20,12 @@ ul.toc-sublist {
     list-style-type: none;
     padding: 0em 2em;
 }
-
+a {
+  color:hsl(0, 100, 33);
+  text-decoration:none;
+}
 a:hover, a:focus {
-    color:rgb(0, 46, 70);
+    color:hsl(0, 54, 72);
     font-weight: normal;
   }
 
