@@ -1,38 +1,60 @@
-title: Nick Danis
-#logo: /assets/img/logo.png
-description: Lecturer in Linguistics
-email: nsdanis@wustl.edu
-pronouns: he/him
-pronunciation: "[ˈnɪk ˈdænɪs]"
-affiliation: Washington University in St. Louis
-postal1: Campus Box 1073
-postal2: One Brookings Drive
-postal3: St. Louis, MO 63130
-show_downloads: false
-#google_analytics:
-repo: https://github.com/nickdanis/nickdanis.github.io
+title: Your awesome title
+author:
+  name: GitHub User
+  email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-social:
-  scholar: 'https://scholar.google.com/citations?user=wAsnRk4AAAAJ'
-  github: 'https://github.com/nickdanis'
-  linkedin: 'https://www.linkedin.com/in/nickdanis/'
-  orcid: 'http://orcid.org/0000-0002-1854-0000'
-  personal: 'https://www.nickdanis.com/'
+show_excerpts: false # set to true to show excerpts on the homepage
 
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-theme: jekyll-theme-minimal
-markdown: kramdown
-kramdown:
-  toc_levels: 1..2
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
-# toc:
-#   min_level: 1
-#   max_level: 6
-#   ordered_list: false
-#   no_toc_section_class: no_toc_section
-#   list_id: toc
-#   list_class: section-nav
-#   sublist_class: toc-sublist
-#   item_class: toc-entry
-#   item_prefix: toc-
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
