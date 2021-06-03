@@ -103,6 +103,7 @@ svg:hover {
   }
 
   h3 {
+    font-style:italic;
     @include relative-font-size(1.2);
 
     @include media-query($on-laptop) {
@@ -111,6 +112,7 @@ svg:hover {
   }
 
   h4 {
+    font-style: italic;
     @include relative-font-size(1.1);
 
     @include media-query($on-laptop) {
