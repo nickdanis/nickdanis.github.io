@@ -15,7 +15,7 @@ layout: default
       {%- endif -%}
       {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
-           {{ tag_name }}
+           <a href="{{ site.baseurl }}{% link posts-by-tag.md %}#{{ tag_name }}">{{ tag_name }}</a>
       {% endfor %}
     </p>
   </header>
