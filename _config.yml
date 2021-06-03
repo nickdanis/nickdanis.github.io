@@ -12,6 +12,10 @@ address-3: St. Louis, MO 63130
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+collections:
+  syllabi:
+    output: true
+    permalink: /:collection/:name
 
 # social links
 # twitter_username: jekyllrb

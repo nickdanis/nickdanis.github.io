@@ -5,7 +5,7 @@ title: Teaching
 
 Fall 2021 courses:
 - Ling 148: The Linguistics of Constructed Languages
-- Ling 313: Phnological Analysis
+- Ling 313: Phonological Analysis
 - Ling 417: Computation and Learnability in Linguistic Theory
 
 Fall 2021 office hours: TBD.
