@@ -27,8 +27,8 @@ svg:hover {
 }
 
 .footer-col-2 {
-  width: 0;
-  width: 0;
+  width: -webkit-calc(5% - (#{$spacing-unit} / 2));
+  width:         calc(5% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
