@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-Syllabi for {{ site.current_semester }}:
+Syllabi for {{ site.current_semester | escape }}:
 {% for syllabi in site.syllabi %}
     <!-- {% if syllabi.semester == site.current_semester %} -->
 - [{{ syllabi.course }}]({{ syllabi.url }})
