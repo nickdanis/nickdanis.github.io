@@ -66,6 +66,13 @@ svg:hover {
   justify-content: space-between;
 }
 
+.nd-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  @include relative-font-size(0.9375);
+  color: $grey-color;
+}
 
 .footer-col {
   float:none;
