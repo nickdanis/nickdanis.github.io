@@ -60,6 +60,11 @@ svg:hover {
   fill:black;
 }
 
+.footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
 .footer-col-2 {
   width: -webkit-calc(10% - (#{$spacing-unit} / 2));
   width:         calc(10% - (#{$spacing-unit} / 2));
