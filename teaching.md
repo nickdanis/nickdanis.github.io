@@ -20,10 +20,10 @@ Office hours: TBD.
 {% for item in site.syllabi %}
     {%- if item.semester != site.current_semester -%}
 * [{{item.semester.}} - {{ item.title }}]({{ item.url }})
-    {%- endif -%}
+    {%- endif %}
 {% endfor %}
 
 See my [CV]({{ site.baseurl }}{% link cv.md %}) for full teaching history. 
 
-only if hyphens
+only if hyphens except last
 
