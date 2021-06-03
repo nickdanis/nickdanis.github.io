@@ -53,6 +53,8 @@ minima:
 # Build settings
 theme: minima
 
+markdown: GFM
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
