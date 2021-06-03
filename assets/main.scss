@@ -120,3 +120,7 @@ svg:hover {
     }
   }
 }
+
+@media print {
+  $base-font-size:   12px;
+}
