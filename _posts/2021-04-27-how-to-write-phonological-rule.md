@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to write a phonological rule in Microsoft Word
-tags: phonology, tools
+tags: phonology tools
 ---
 
 The equation editor in Word allows matrices and brackets of various sizes, which is 90% of what we need to make a rule. 
