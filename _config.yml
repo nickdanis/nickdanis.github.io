@@ -18,6 +18,7 @@ collections:
     output: true
     permalink: /:collection/:name
 
+
 # social links
 # twitter_username: jekyllrb
 github_username:  https://github.com/nickdanis
