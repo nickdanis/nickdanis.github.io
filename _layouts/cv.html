@@ -7,8 +7,9 @@
     <div class="cv-header">
       <div class="wrapper">
       <h1 class="cv-name">{{ site.author.name }}</h1>
-      <p>{{ site.author.email }}</p>
-      <p>{{ site.author.pronouns }}</p>
+      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      <br><a href="{{ site.baseurl }}">{{ site.baseurl }}</a>
+      <br>{{ site.author.pronouns }}</p>
       <p>{{ site.description }} 
       <br>{{ site.address-1 }}
       <br>{{ site.address-2 }}
