@@ -12,12 +12,13 @@
             {% if site.author.name -%}
               <li class="p-name">{{ site.author.name | escape }}</li>
             {% endif -%}
-            {% if site.author.pronouns -%}
-              <li class="p-bio">{{ site.author.pronouns | escape }}</li>
-            {% endif -%}
             {% if site.author.email -%}
               <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
             {%- endif %}
+            {% if site.author.pronouns -%}
+              <li class="p-bio">{{ site.author.pronouns | escape }}</li>
+            {% endif -%}
+
           </ul>
         {%- endif %}
         {%- include social.html -%}
