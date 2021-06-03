@@ -6,7 +6,7 @@ title: Teaching
 Syllabi for {{ site.current_semester }}:
 {% for syllabi in site.syllabi %}
     <!-- {% if syllabi.semester == site.current_semester %} -->
-- [{{ syllabi.title }}]({{ syllabi.url }})
+- [{{ syllabi.semester }} - {{ syllabi.title }}]({{ syllabi.url }})
     <!-- {% endif %} -->
 {% endfor %}
 
