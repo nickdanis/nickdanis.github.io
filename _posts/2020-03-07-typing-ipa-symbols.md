@@ -17,7 +17,7 @@ SIL also provides such [IPA keyboards](https://scripts.sil.org/cms/scripts/page.
 
 On Windows, the keyboard shortcut Windows + Space will change the language of Windows. This can also be selected by clicking the current language in the taskbar:
 
-![screenshot showing IPA language location in taskbar](/assets/ipa-keyman.png)
+![screenshot showing IPA language location in taskbar](/assets/posts/ipa-keyman.png)
 
 Once installed and enabled, you now have full access to all IPA characters using just your keyboard. See the provided [documentation](https://help.keyman.com/keyboard/sil_ipa/1.8.4/sil_ipa) for a full guide on how to type the symbols themselves. 
 
@@ -25,6 +25,6 @@ This documentation show the IPA chart in its normal layout annotated with the ke
 
 To type the velar nasal ŋ, for instance, type ‘n’ followed by the greater-than symbol >. 
 
-<img src="/assets/greatjob.gif">
+<img src="/assets/posts/greatjob.gif">
 
 Now you are cooking with gas. 
