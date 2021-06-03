@@ -21,9 +21,6 @@ Office hours: TBD.
     {% endif %}
 {% endfor %}
 
-{% for item in site.syllabi.semester %}
-{{ item }}
-{% endfor %}
 
 See my [CV]({{ site.baseurl }}{% link cv.md %}) for full teaching history. 
 
