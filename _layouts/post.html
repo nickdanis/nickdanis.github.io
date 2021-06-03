@@ -15,8 +15,7 @@ layout: default
       {%- endif -%}
       {% if post.tags.size > 0 %}
         tags: {{ post.tags | sort | join: ", " }}
-      {% endif %}
-      forced tags: {{ post.tags | sort | join: ", " }}</p>
+      {% endif %}</p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
