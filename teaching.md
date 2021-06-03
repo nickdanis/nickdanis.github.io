@@ -3,11 +3,11 @@ layout: page
 title: Teaching
 ---
 
-<!-- Syllabi for {{ site.current_semester }}: -->
+Syllabi for {{ site.current_semester }}:
 {% for syllabi in site.syllabi %}
     {% if syllabi.semester == site.current_semester %}
 - [{{ syllabi.title }}]({{ syllabi.url }})
-    {% end if %}
+    {% endif %}
 {% endfor %}
 
 Fall 2021 office hours: TBD.
