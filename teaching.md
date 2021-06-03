@@ -4,8 +4,8 @@ title: Teaching
 ---
 
 Syllabi for {{ site.current_semester }}:
-{% for syllabi in site.syllabi %}
-- [{{ syllabi.title }}]({{ syllabi.url }})
+{% for item in site.syllabi %}
+- [{{ item.title }}]({{ item.url }})
 {% endfor %}
 
 Fall 2021 office hours: TBD.
@@ -16,4 +16,11 @@ testing:
 {% for syllabi in site.syllabi %}
 - should say the semester: {{ syllabi.semester }}
 - should say the title: {{ syllabi.title }}
+{% endfor %}
+
+test 2:
+{% for syllabi in site.syllabi %}
+    {% if syllabi.semester == site.current_semester %}
+- {{syllabi.title}}
+    {% endif %}
 {% endfor %}
