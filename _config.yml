@@ -4,9 +4,9 @@ author:
   pronouns: he/him
   email: nsdanis@wustl.edu
 description: | # this means to ignore newlines until "show_excerpts:"
-  Washington University in St. Louis Linguistics Program\n
-  Campus Box 1073\n
-  One Brookings Drive\n
+  Washington University in St. Louis Linguistics Program
+  Campus Box 1073
+  One Brookings Drive
   St. Louis, MO 63130 
 
 show_excerpts: false # set to true to show excerpts on the homepage
