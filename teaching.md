@@ -5,7 +5,9 @@ title: Teaching
 
 Syllabi for {{ site.current_semester }}:
 {% for item in site.syllabi %}
+    {% if item.semester == site.current_semester %}
 - [{{ item.title }}]({{ item.url }})
+    {% endif %}
 {% endfor %}
 
 Fall 2021 office hours: TBD.
@@ -22,5 +24,5 @@ test 2:
 {% for syllabi in site.syllabi %}
     {% if syllabi.semester == site.current_semester %}
 - {{syllabi.title}}
-    {% endif %}
+    
 {% endfor %}
