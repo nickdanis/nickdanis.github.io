@@ -65,15 +65,12 @@ svg:hover {
   justify-content: space-between;
 }
 
-.footer-col-2 {
-  width: -webkit-calc(10% - (#{$spacing-unit} / 2));
-  width:         calc(10% - (#{$spacing-unit} / 2));
+.footer-col {
+  float:none;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
 }
 
-.footer-col-3 {
-  width: -webkit-calc(55% - (#{$spacing-unit} / 2));
-  width:         calc(55% - (#{$spacing-unit} / 2));
-}
 
 .p-name {
   font-weight: bold;
