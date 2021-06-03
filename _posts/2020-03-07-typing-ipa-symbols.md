@@ -25,4 +25,6 @@ This documentation show the IPA chart in its normal layout annotated with the ke
 
 To type the velar nasal ŋ, for instance, type ‘n’ followed by the greater-than symbol >. 
 
+<img src="/assets/greatjob.gif">
+
 Now you are cooking with gas. 
