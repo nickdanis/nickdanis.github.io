@@ -30,6 +30,13 @@
   }
 }
 
+/**
+ * Site footer
+ */
+ .site-footer {
+  border-top: 0px solid $grey-color-light;
+  padding: $spacing-unit 0;
+}
 .social-media-list {
   list-style-type: none;
   padding: 0;
