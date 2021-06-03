@@ -134,3 +134,9 @@ svg:hover {
  .cv-name {
    text-align: center;
  }
+
+ .cv-flex {
+   display:flex;
+   flex-direction: row;
+   justify-content: space-between;
+ }
