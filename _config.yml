@@ -52,6 +52,7 @@ minima:
 header_pages:
 - research.md
 - teaching.md
+- publications.md
 - posts.md
 - cv.md
 
