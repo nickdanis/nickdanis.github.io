@@ -4,9 +4,15 @@
   {%- include head.html -%}
 
   <body>
-
-    <h1 class="cv-name">{{ site.author.name }}</h1>
-
+    <div class="cv-header">
+      <h1 class="cv-name">{{ site.author.name }}</h1>
+      <p>{{ site.author.email }}</p>
+      <p>{{ site.author.pronouns }}</p>
+      <p>{{ site.description }} </p>
+      <p>{{ site.address1 }}</p>
+      <p>{{ site.address2 }}</p>
+      <p>{{ site.address3 }}</p>
+    </div>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
