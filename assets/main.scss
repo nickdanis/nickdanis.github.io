@@ -1,0 +1,11 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+    display: inline-block;
+  }
