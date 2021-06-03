@@ -15,4 +15,5 @@ See my [CV]({{ site.baseurl }}{% link cv.md %}) for full teaching history.
 
 {% for syllabi in site.syllabi %}
 - {{ syllabi.semester }}
+- {{ syllabi.title }}
 {% endfor %}
