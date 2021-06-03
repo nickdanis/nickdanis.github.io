@@ -67,17 +67,17 @@ svg:hover {
 }
 
 .nd-footer {
+  @include relative-font-size(0.9375);
+  color: $grey-color;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  @include relative-font-size(0.9375);
-  color: $grey-color;
 }
 
 .footer-col {
   float:none;
   margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  padding-left: 0;
 }
 
 
