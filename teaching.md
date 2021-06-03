@@ -12,8 +12,8 @@ Fall 2021 office hours: TBD.
 
 See my [CV]({{ site.baseurl }}{% link cv.md %}) for full teaching history. 
 
-
+testing:
 {% for syllabi in site.syllabi %}
-- {{ syllabi.semester }}
-- {{ syllabi.title }}
+- should say the semester: {{ syllabi.semester }}
+- should say the title: {{ syllabi.title }}
 {% endfor %}
