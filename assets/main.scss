@@ -27,11 +27,15 @@ svg:hover {
 }
 
 .footer-col-2 {
-  width: -webkit-calc(5% - (#{$spacing-unit} / 2));
-  width:         calc(5% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(10% - (#{$spacing-unit} / 2));
+  width:         calc(10% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
   width: -webkit-calc(55% - (#{$spacing-unit} / 2));
   width:         calc(55% - (#{$spacing-unit} / 2));
+}
+
+.p-name {
+  font-weight: bold;
 }
