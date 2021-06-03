@@ -7,11 +7,11 @@ title: Teaching
 
 Syllabi:
 
-{% for item in site.syllabi -%}
+{% for item in site.syllabi %}
     {%- if item.semester == site.current_semester -%}
 * [{{ item.title }}]({{ item.url }})
-    {%- endif -%}
-{%- endfor %}
+    {%- endif %}
+{% endfor %}
 
 Office hours: TBD.
 
@@ -25,5 +25,5 @@ Office hours: TBD.
 
 See my [CV]({{ site.baseurl }}{% link cv.md %}) for full teaching history. 
 
-only if hyphens except last
+
 
