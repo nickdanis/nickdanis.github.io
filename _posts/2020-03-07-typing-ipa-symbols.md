@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Typing IPA symbols on your computer
-categories: phonetics, phonology, tools
+tags: phonetics, phonology, tools
 ---
 
 For doing any serious phonetic or phonological work, you should have a fully IPA compliant Unicode font installed. While many phonetic symbols are accessible without these fonts, not all handle the full range of symbols and diacritics properly. The SIL provides several such fonts for free:
