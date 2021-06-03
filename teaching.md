@@ -24,5 +24,5 @@ test 2:
 {% for syllabi in site.syllabi %}
     {% if syllabi.semester == site.current_semester %}
 - {{syllabi.title}}
-    
+    {% endif %}
 {% endfor %}
