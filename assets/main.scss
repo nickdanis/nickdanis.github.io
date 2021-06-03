@@ -25,3 +25,8 @@ svg {
 svg:hover {
   fill:black;
 }
+
+.footer-col-3 {
+  width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+  width:         calc(55% - (#{$spacing-unit} / 2));
+}
