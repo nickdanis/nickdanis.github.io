@@ -15,13 +15,13 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  https://github.com/nickdanis
+    github:  nickdanis
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: https://www.linkedin.com/in/nickdanis/
+    linkedin: nickdanis
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
