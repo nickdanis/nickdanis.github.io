@@ -17,14 +17,17 @@ SIL also provides such [IPA keyboards](https://scripts.sil.org/cms/scripts/page.
 
 On Windows, the keyboard shortcut Windows + Space will change the language of Windows. This can also be selected by clicking the current language in the taskbar:
 
-![screenshot showing IPA language in taskbar](/assets/ipa-keyman.png)
+![](/assets/ipa-keyman.png)
 
 Once installed and enabled, you now have full access to all IPA characters using just your keyboard. See the provided [documentation](https://help.keyman.com/keyboard/sil_ipa/1.8.4/sil_ipa) for a full guide on how to type the symbols themselves. 
 
 This documentation show the IPA chart in its normal layout annotated with the keystrokes for each. I recommend saving these pages as reference and having them handy whenever you are doing any word. 
 
-To type the velar nasal ŋ, type ‘n’ followed by the greater-than symbol >. (In the following image, I have the custom setting set to “Before”, so that the special symbol is entered first, before the base character.)
+To type the velar nasal ŋ, for instance, type ‘n’ followed by the greater-than symbol >. (In the following image, I have the custom setting set to “Before”, so that the special symbol is entered first, before the base character.)
 
-ǃ[animation showing typing with the IPA keyboard](/assets/greatjob.gif)
+ǃ[](/assets/greatjob.gif)
+
+
+
 
 Now you are cooking with gas. 
