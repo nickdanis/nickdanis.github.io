@@ -3,20 +3,26 @@ layout: page
 title: Teaching
 ---
 
-Syllabi for {{ site.current_semester }}:
+## {{ site.current_semester }}
+
+Syllabi:
 {% for item in site.syllabi %}
     {% if item.semester == site.current_semester %}
 - [{{ item.title }}]({{ item.url }})
     {% endif %}
 {% endfor %}
 
-Fall 2021 office hours: TBD.
+Office hours: TBD.
 
-Previous semesters:
+## Previous semesters
 {% for item in site.syllabi %}
     {% if item.semester != site.current_semester %}
 - [{{item.semester.}} - {{ item.title }}]({{ item.url }})
     {% endif %}
+{% endfor %}
+
+{% for item in site.syllabi.semester %}
+{{ item }}
 {% endfor %}
 
 See my [CV]({{ site.baseurl }}{% link cv.md %}) for full teaching history. 
