@@ -6,6 +6,6 @@ My focus is in theoretical phonology. Empirical domains include African language
 
 I am currently a Lecturer in linguistics at [Washington University in St. Louis](https://linguistics.wustl.edu/). My office on campus is January 206, though currently all office hours take place on Zoom.
 
-## Contact
 
-- nsdanis@wustl.edu
+
+
