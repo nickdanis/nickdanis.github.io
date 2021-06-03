@@ -5,11 +5,13 @@
 @import "minima";
 
 .social-media-list {
-    list-style: none;
-    margin-left: 0;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 1em 0;
   }
 
 .social-media-icon {
-    display: inline-block;
-    vertical-align:top;
+  display: inline;
+  margin: 2px;
+  padding: 0;
 }
