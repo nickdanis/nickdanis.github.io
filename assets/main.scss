@@ -65,6 +65,11 @@ svg:hover {
   justify-content: space-between;
 }
 
+.nd-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
 .footer-col {
   float:none;
   margin-bottom: $spacing-unit / 2;
