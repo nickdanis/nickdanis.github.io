@@ -12,6 +12,7 @@ address-3: St. Louis, MO 63130
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+current_semester: Fall 2021
 collections:
   syllabi:
     output: true
