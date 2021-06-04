@@ -7,7 +7,7 @@ Sort by: [date]({{ site.baseurl }}{% link posts.md %}) \| [**tag**]({{ site.base
 
 <ul class="tag-list">
 {% for tag in site.tags %}
-<li class="tag-link"> <a href="#{{tag[0]}}">{{tag[0]}}({{tag[1] | size}})</a> </li>
+<li class="tag-link"> <a href="#{{tag[0]}}">{{tag[0]}} ({{tag[1] | size}})</a> </li>
 {% endfor %}
 </ul>
 
