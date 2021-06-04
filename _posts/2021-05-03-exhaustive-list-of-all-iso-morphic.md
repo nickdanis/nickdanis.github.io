@@ -2,11 +2,14 @@
 layout: post
 title: Exhaustive list of all ISO-morphic languages (languages whose name equals its ISO 639-3 code)
 tags: fun
+thumbnail: /assets/posts/isopie.png
 ---
 
 Every unique language is assigned a three-letter code based on [ISO 639-3 specifications](https://en.wikipedia.org/wiki/ISO_639-3). Information on these codes, and the data files used here, can be accessed [here](https://www.ethnologue.com/codes). (As you may now need a subscription to Ethnologue, also check out [SIL](https://iso639-3.sil.org/code_tables/639/data) and [Glottolog](https://glottolog.org/).)
 
 Also present in the world are languages whose names are three letters long (when in romanization). For this part, the language name is that in the primary ‘Name’ field of the Ethnologue data. Of the 7,000+ languages in Ethnologue, 235 have three-letter names, and of these, 58 of these are **ISO-morphic**: where the Name matches the ISO code. 
+
+![](/assets/posts/isopie.png)
 
 The languages themselves are listed below, for your undoubtedly essential reference.
 ## ISO-morphic languages
