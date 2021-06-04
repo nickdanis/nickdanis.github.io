@@ -5,8 +5,6 @@ title: Teaching
 
 ## {{ site.current_semester }}
 
-Syllabi:
-
 {% for item in site.syllabi %}
     {%- if item.semester == site.current_semester -%}
 * [{{ item.title }}]({{ item.url }})
