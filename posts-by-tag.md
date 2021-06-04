@@ -3,7 +3,7 @@ layout: page
 title: Posts
 ---
 
-Sort by: [**date**]({{ site.baseurl }}{% link posts.md %}) \| [**tag**]({{ site.baseurl }}{% link posts-by-tag.md %})
+Sort by: [date]({{ site.baseurl }}{% link posts.md %}) \| [**tag**]({{ site.baseurl }}{% link posts-by-tag.md %})
 
 <ul class="tag-list">
 {% for tag in site.tags %}
@@ -17,8 +17,8 @@ Sort by: [**date**]({{ site.baseurl }}{% link posts.md %}) \| [**tag**]({{ site.
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {% for post in tag[1] %}
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
       </li>
     {% endfor %}
   </ul>
