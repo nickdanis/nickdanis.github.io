@@ -103,7 +103,13 @@ svg:hover {
 /**
  * Posts
  */
- .post-header {
+
+img.post-gallery {
+  height: 200px;
+  width: auto;
+}
+
+.post-header {
   margin-bottom: $spacing-unit;
 }
 
