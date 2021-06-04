@@ -8,6 +8,12 @@ title: Posts by tag
 * TOC
 {:toc}
 
+<ul>
+{% for tag in site.tags %}
+<li> {{tag[0]}}
+{% endfor %}
+</ul>
+
 {% for tag in site.tags %}
 ## {{ tag[0] }}
   <ul class="post-list">
