@@ -65,7 +65,7 @@ title: CV
 
 ## Field Experience
 
-- 2010, Medumba ([byv], Grassfields Bantu, Cameroon): Conducted one month of intensive fieldwork in Yaoundé, Bangangté, and local surrounding villages. Funded by NSF Grant BCS 102672⒋
+- 2010, Medumba ([byv], Grassfields Bantu, Cameroon): Conducted one month of intensive fieldwork in Yaoundé, Bangangté, and local surrounding villages. Funded by NSF Grant BCS 1026724.
 
 ## Service
 
