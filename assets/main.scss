@@ -184,7 +184,12 @@ img.post-gallery {
 
 ul.tag-list {
   display: flex;
+  flex-flow: row wrap;
   list-style-type: none;
+}
+
+li.tag-link {
+  padding-right: $spacing-unit;
 }
 
 @media print {
