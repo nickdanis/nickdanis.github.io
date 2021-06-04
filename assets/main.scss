@@ -105,8 +105,14 @@ svg:hover {
  */
 
 img.post-gallery {
-  height: 200px;
+  height: 50px;
   width: auto;
+}
+
+.gallery-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
 }
 
 .post-header {
