@@ -5,12 +5,9 @@ title: Posts by tag
 
 <h2> Tags </h2>
 
-* TOC
-{:toc}
-
-<ul>
+<ul class="tag-list">
 {% for tag in site.tags %}
-<li> {{tag[0]}} </li>
+<li> <a href="#{{tag[0]}}">{{tag[0]}}</a> </li>
 {% endfor %}
 </ul>
 
