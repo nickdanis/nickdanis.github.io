@@ -19,6 +19,9 @@ collections:
     output: true
     permalink: /:collection/:name
 
+fa2021:
+  office-hours: TBD
+  office-location: January 206 / Zoom
 
 # social links
 # twitter_username: jekyllrb
