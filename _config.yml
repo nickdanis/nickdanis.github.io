@@ -1,3 +1,4 @@
+# personal info
 title: Nick Danis
 author:
   name: Nick Danis 
@@ -11,8 +12,7 @@ address-1: Campus Box 1073
 address-2: One Brookings Drive
 address-3: St. Louis, MO 63130 
 
-show_excerpts: false # set to true to show excerpts on the homepage
-
+# teaching info
 current_semester: Fall 2021
 collections:
   syllabi:
@@ -23,28 +23,13 @@ fa2021:
   office-hours: TBD
   office-location: January 206 / Zoom
 
-# social links
-# twitter_username: jekyllrb
+
+# site info
 github_username:  https://github.com/nickdanis
 orcid: https://orcid.org/0000-0002-1854-0000
 google_scholar: https://scholar.google.com/citations?user=wAsnRk4AAAAJ
-# rss: rss
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
+
 linkedin_username: https://www.linkedin.com/in/nickdanis/
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-
-# Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
-
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -60,9 +45,10 @@ header_pages:
 - posts.md
 - cv.md
 
+show_excerpts: false # set to true to show excerpts on the homepage
+
 # Build settings
 theme: minima
-
 
 plugins:
  - jekyll-feed
