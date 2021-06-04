@@ -13,7 +13,7 @@ Syllabi:
     {%- endif %}
 {% endfor %}
 
-Office hours: TBD.
+Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}.
 
 ## Previous semesters
 
