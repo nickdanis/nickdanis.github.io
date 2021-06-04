@@ -9,7 +9,7 @@ This post explains several methods for plotting a phonetic vowel space from F1 a
 
 ## Getting some data
 
-For our vowel plot, we'll start with some example formant values from the *Language Files* textbook. If you already have data ready to work with, skip to the **Making the plot** section below. They give the following F1 and F2 values for a typical American English speaker. These are defined in a dictionary, which is used to create the initial pandas dataframe `lf_df`. Import the necessary packages, and define the initial dataframe.
+For our vowel plot, we'll start with some example formant values from the *Language Files* textbook. If you already have data ready to work with, skip to the [Making the plot](#making-the-plot) section below. They give the following F1 and F2 values for a typical American English speaker. These are defined in a dictionary, which is used to create the initial pandas dataframe `lf_df`. Import the necessary packages, and define the initial dataframe.
 
 
 ```python
