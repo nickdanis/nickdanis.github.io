@@ -109,6 +109,10 @@ img.post-gallery {
   width: 50px;
 }
 
+.thumbnail {
+  width: 75px;
+}
+
 .gallery-wrapper {
   display: flex;
   flex-flow: row wrap;
@@ -118,10 +122,6 @@ img.post-gallery {
 .post-item {
   display: flex;
   margin-bottom: 0px;
-}
-
-.title-meta {
-  margin-left: $spacing-unit;
 }
 
 .post-heading {
