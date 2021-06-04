@@ -173,13 +173,8 @@ img.post-gallery {
 }
 
 @media print {
-  $base-font-size: 12pt !important;
-  font-size: 12pt !important;
   .cv-back {
     display: none !important;
-  }
-  .wrapper {
-    max-width: calc(#{$content-width} * 1.2 - (#{$spacing-unit} * 2));
   }
 }
 
@@ -190,7 +185,8 @@ img.post-gallery {
 .cv-back {
   padding-top: 50px;
   padding-bottom: 50px;
-  text-align: left;
+  display:flex;
+  justify-content: space-between;
 }
  .cv-name {
    text-align: center;
