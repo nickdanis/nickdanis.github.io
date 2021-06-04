@@ -38,7 +38,12 @@ layout: default
                 {{ post.title | escape }}
               </a>
             </h3>
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <span class="post-meta">{{ post.date | date: date_format }}
+              {% for tag in page.tags %}
+                {% capture tag_name %}{{ tag }}{% endcapture %}
+                  <a href="{{ site.baseurl }}{% link posts-by-tag.md %}#{{ tag_name }}">{{ tag_name }}</a>
+              {% endfor %}
+            </span>
             {%- if site.show_excerpts -%}
               {{ post.excerpt }}
             {%- endif -%}
