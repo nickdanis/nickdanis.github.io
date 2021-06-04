@@ -178,6 +178,15 @@ img.post-gallery {
   }
 }
 
+/**
+ * Tags
+ */
+
+.tag-list {
+  display: flex;
+  list-style-type: none;
+}
+
 @media print {
   .cv-back {
     display: none !important;
