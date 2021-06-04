@@ -115,6 +115,10 @@ img.post-gallery {
   justify-content: space-between;
 }
 
+.post-item {
+  display: flex;
+}
+
 .post-header {
   margin-bottom: $spacing-unit;
 }

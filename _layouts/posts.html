@@ -32,7 +32,7 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-        <h3><img class="post-gallery" src="{{post.thumbnail | relative_url}}" alt="">
+        <h3 class="post-item"><img class="post-gallery" src="{{post.thumbnail | relative_url}}" alt="">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
