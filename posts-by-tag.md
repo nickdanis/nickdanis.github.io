@@ -7,7 +7,7 @@ title: Posts by tag
 {:toc}
 
 {% for tag in site.tags %}
-  <h2>{{ tag[0] }}</h2>
+  ## {{ tag[0] }}
   <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {% for post in tag[1] %}
