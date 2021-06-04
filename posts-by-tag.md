@@ -3,6 +3,9 @@ layout: page
 title: Posts by tag
 ---
 
+* TOC
+{:toc}
+
 {% for tag in site.tags %}
   <h2>{{ tag[0] }}</h2>
   <ul class="post-list">
