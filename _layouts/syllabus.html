@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <p>Dr. {{ site.author.name }}, <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+  <br> <em>{{ site.description }}</em></p>
+
+* TOC
+{:toc}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
