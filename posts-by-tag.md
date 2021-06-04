@@ -10,7 +10,7 @@ title: Posts by tag
 
 <ul>
 {% for tag in site.tags %}
-<li> {{tag[0]}}
+<li> {{tag[0]}} </li>
 {% endfor %}
 </ul>
 
