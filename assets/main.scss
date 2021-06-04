@@ -4,7 +4,19 @@
 
 @import "minima";
 
-$brand-color: maroon !default;
+
+
+/**
+ * Links
+ */
+ a {
+  color: maroon;
+  text-decoration: none;
+
+  &:visited {
+    color: darken($brand-color, 15%);
+  }
+
 
 /**
  * Site header
@@ -35,7 +47,7 @@ $brand-color: maroon !default;
 
 .curr-page-link {
   font-weight: bold;
-  color: $brand-color;
+  color: maroon;
   line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
