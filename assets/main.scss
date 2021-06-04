@@ -149,8 +149,12 @@ svg:hover {
 
 @media print {
   $base-font-size: 12pt !important;
+  font-size: 12pt !important;
   .cv-back {
     display: none !important;
+  }
+  .wrapper {
+    max-width: calc(#{$content-width} * 1.2 - (#{$spacing-unit} * 2));
   }
 }
 
