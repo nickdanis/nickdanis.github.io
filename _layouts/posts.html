@@ -28,9 +28,11 @@ layout: default
       <li>
         <div class="post-item">
           <div class="thumbnail">
+            <a href="{{ post.url | relative_url }}">
             <img class="post-gallery" src="{{post.thumbnail | relative_url}}" alt="">
+            </a>
           </div>
-          <div>
+          <div class="title-meta">
             <h3 class="post-heading">
               <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
