@@ -8,12 +8,12 @@
 
 - Danis, Nick and Adam Jardine. 2019. "[Q-Theory Representations are Logically Equivalent to Autosegmental Representations](https://scholarworks.umass.edu/scil/vol2/iss1/5)," *Proceedings of the Society for Computation in Linguistics*: Vol. 2 , Article 5. [[doi](https://doi.org/10.7275/tvj1-k306)]
 - Danis, Nick. 2017. [Major place harmony in ABC and the (reduced) role of representation: evidence from Ngbaka](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/3980). In Karen Jesney, Charlie O’Hara, Caitlin Smith and Rachel Walker (eds.), *Proceedings of the 2016 Annual Meeting on Phonology*. Washington, DC: Linguistic Society of America. [[doi](http://dx.doi.org/10.3765/amp.v4i0.3980), [lingbuzz](https://ling.auf.net/lingbuzz/003299), [ROA-1302](http://roa.rutgers.edu/article/view/1607)]
-- Danis, Nick. 2017. Markedness and Complex Stops: Evidence from Simplification Processes. In Shigeki Kaji (ed.), Proceedings of the 8th World Congress of African Languages Kyoto 2015, 25–43. Tokyo University of Foreign Studies: Research Institute for Languages and Cultures of Asia and Africa. [[ROA-1303](http://roa.rutgers.edu/article/view/1609)]
-- Danis, Nick, Jonathan Barnes, and Catherine O’Connor. 2012. [Downstep and Contour Formation in Medumba: A Prosodic Account](http://www.lingref.com/cpp/acal/42/abstract2755.html). In Michael R. Marlo, Nikki B. Adams, Christopher R. Green, Michelle Morrison, and Tristan M. Purvis (eds.), Selected Proceedings of the 42nd Annual Conference on African Linguistics. Somerville, MA: Cascadilla Proceedings Project, pp. 22-31. [[PDF](http://www.lingref.com/cpp/acal/42/paper2755.pdf)]
+- Danis, Nick. 2017. Markedness and Complex Stops: Evidence from Simplification Processes. In Shigeki Kaji (ed.), *Proceedings of the 8th World Congress of African Languages Kyoto 2015*, 25–43. Tokyo University of Foreign Studies: Research Institute for Languages and Cultures of Asia and Africa. [[ROA-1303](http://roa.rutgers.edu/article/view/1609)]
+- Danis, Nick, Jonathan Barnes, and Catherine O’Connor. 2012. [Downstep and Contour Formation in Medumba: A Prosodic Account](http://www.lingref.com/cpp/acal/42/abstract2755.html). In Michael R. Marlo, Nikki B. Adams, Christopher R. Green, Michelle Morrison, and Tristan M. Purvis (eds.), *Selected Proceedings of the 42nd Annual Conference on African Linguistics*. Somerville, MA: Cascadilla Proceedings Project, pp. 22-31. [[PDF](http://www.lingref.com/cpp/acal/42/paper2755.pdf)]
 
 ### Manuscripts
 
-- Danis, Nick. 2017. Complex place and place identity. PhD Dissertation, Rutgers University. Chair: Akin Akinlabi. [[doi](https://doi.org/doi:10.7282/T38055PH), [lingbuzz](https://ling.auf.net/lingbuzz/003693), [ROA-1324](http://roa.rutgers.edu/article/view/1695)]
+- Danis, Nick. 2017. *Complex place and place identity*. PhD Dissertation, Rutgers University. Chair: Akin Akinlabi. [[doi](https://doi.org/doi:10.7282/T38055PH), [lingbuzz](https://ling.auf.net/lingbuzz/003693), [ROA-1324](http://roa.rutgers.edu/article/view/1695)]
 - Danis, Nick. 2014. Deriving Interactions of Complex Stops. Ms., Rutgers University. Second Qualifying Paper. Committee: Alan Prince (Chair), Bruce Tesar, Akin Akinlabi. [[ROA-1220](http://roa.rutgers.edu/article/view/1362), [ROA-1221](http://roa.rutgers.edu/article/view/1363) ([OTWorkplace](https://sites.google.com/site/otworkplace/) Supplement)]
 - Danis, Nick. 2011. The Phonological Word in Medumba. Ms., Boston University. Master’s project.
 
@@ -35,8 +35,8 @@
 
 ### Poster
 
-- Danis, Nick. 2020. Phonology needs geometry: Implicit axioms in segmental representation. Poster presented at the 2020 Annual Meeting of the LSA. 
-- Danis, Nick. [Cross-category agreement as reference to general dominance](http://phonology.ucsd.edu/wp-content/uploads/sites/54/2018/10/Danis-poster.pdf). AMP 2018, UC San Diego. Oct 5-7, 2018. Poster.
-- Danis, Nick, Jeffrey Heinz and Adam Jardine. 2018. How constraints refer to nothing: The correct notion of substructure for phonology. Poster that was present at the 2018 LSA. 
-- Danis, Nick. 2018. A theory of cross-category agreement and new evidence for unified place features. Poster that never made it to the 2018 LSA due to inclement weather. 
-- Danis, Nick. 2017. Phonetics of Yoruba vowel deletion: durational evidence for hidden structure. ACAL 48, Indiana University. March 30-April 2, 2017. Poster.
+- Danis, Nick. 2020. [Phonology needs geometry: Implicit axioms in segmental representation](/assets/posters/danis2020-lsa-poster.pdf). Poster presented at the 2020 Annual Meeting of the LSA. 
+- Danis, Nick. [Cross-category agreement as reference to general dominance](/assets/posters/danis2018-amp-poster.pdf). AMP 2018, UC San Diego. Oct 5-7, 2018. Poster. [[conf. link](http://phonology.ucsd.edu/wp-content/uploads/sites/54/2018/10/Danis-poster.pdf)]
+- Danis, Nick, Jeffrey Heinz and Adam Jardine. 2018. [How constraints refer to nothing: The correct notion of substructure for phonology](/assets/posters/danis-et-al2018-lsa-poster.pdf). Poster that was present at the 2018 LSA. 
+- Danis, Nick. 2018. A theory of cross-category agreement and new evidence for unified place features. Poster that never made it to the 2018 LSA due to inclement weather. See the AMP 2018 version.
+- Danis, Nick. 2017. [Phonetics of Yoruba vowel deletion: durational evidence for hidden structure](/assets/posters/danis2017-acal48-poster.pdf). ACAL 48, Indiana University. March 30-April 2, 2017. Poster.
