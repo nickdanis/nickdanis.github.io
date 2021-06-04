@@ -3,7 +3,7 @@ layout: page
 title: Posts by tag
 ---
 
-## Tags
+<h2> Tags </h2>
 
 * TOC
 {:toc}
