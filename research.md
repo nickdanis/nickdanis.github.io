@@ -7,7 +7,7 @@ title: Research
 
 {% for page in site.research %}
 <ul class="project-list">
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="{{ page.url }}">{{ page.name }}</a></li>
 </ul>
 {% endfor %}
 
