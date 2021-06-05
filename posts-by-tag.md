@@ -23,4 +23,5 @@ Sort by: [date]({{ site.baseurl }}{% link posts.md %}) \| [**tag**]({{ site.base
     {% endfor %}
   </ul>
   <p> <a href="{{ site.baseurl }}{% link posts-by-tag.md %})"> top </a>
+  </p>
 {% endfor %}
