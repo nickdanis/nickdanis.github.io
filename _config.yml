@@ -18,6 +18,11 @@ collections:
   syllabi:
     output: true
     permalink: /:collection/:name
+    sort-by: title
+  research:
+    output: true
+    permalink: /:collection/:name
+
 
 fa2021:
   office-hours: TBD
