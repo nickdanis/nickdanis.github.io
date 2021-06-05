@@ -3,6 +3,12 @@ layout: page
 title: Research
 ---
 
+{% for page in site.research %}
+<ul>
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+</ul>
+{% endfor %}
+
 ## Representation and the logical power of constraints
 Much of my research focuses on the exact formal definitions of constraints, both markedness and faithfulness, and how this affects assumptions about representation. My dissertation proposes a unified structure for identity constraints: those that mediate input/output & surface correspondence as well as local agreement. Additionally, work with Adam Jardine, Jeff Heinz, and colleagues studies  the computational & logical complexity of markedness constraints and their formal definition in model theory. 
 
