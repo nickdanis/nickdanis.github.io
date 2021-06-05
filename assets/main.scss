@@ -233,11 +233,17 @@ li.tag-link {
 
 .syl-toc {
   list-style: none;
+  margin-left: 0px;
 }
 
 ul.syl-toc-sub {
   list-style: none;
   margin-left: 15px;
+}
+
+.syl-toc-title {
+  font-weight: bold;
+  color: gray;
 }
 
 
