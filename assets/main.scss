@@ -209,7 +209,7 @@ li.tag-link {
   }
 }
 
-@media print, screen and (max-width: 1050px) {
+@media print, screen and (max-width: 1077px) {
   .sidetoc {
     display: none;
   }
@@ -229,6 +229,25 @@ li.tag-link {
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
   font-size: 85%;
+}
+
+.syl-toc {
+  list-style: none;
+}
+
+ul.syl-toc-sub {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.syl-toc-sub > li {
+  margin-left: 15px;  
+}
+
+/* Prevent nested li's from getting messed up */
+ul.syl-toc-sub > li::before {
+  content: "-";
+  margin-left: -15px;
 }
 
 /**
