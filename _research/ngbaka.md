@@ -10,7 +10,7 @@ The csv wordlist as used in the work below and the full dictionary as an SQLite 
 
 ### Repository link
 
-* (coming soon)
+* [https://github.com/nickdanis/ngbaka](https://github.com/nickdanis/ngbaka)
 
 ### Works
 
