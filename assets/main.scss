@@ -4,8 +4,13 @@
 
 @import "minima";
 
-
-
+/**
+ * Scroll bar hehavior
+ */
+html {
+  margin-left: calc(100vw - 100%);
+  margin-right: 0;
+}
 
 
 /**
