@@ -224,7 +224,7 @@ li.tag-link {
   width: 160px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
-  top: 175px; /* Stay at the top */
+  top: 100px; /* Stay at the top */
   left: $spacing-unit;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
@@ -254,7 +254,7 @@ ul.syl-toc-sub {
  */
 
 .cv-back {
-  padding-top: 50px;
+  padding-top: 30px;
   padding-bottom: 50px;
   display:flex;
   justify-content: space-between;
