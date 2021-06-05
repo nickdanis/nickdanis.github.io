@@ -209,6 +209,12 @@ li.tag-link {
   }
 }
 
+@media print, screen and (max-width: 1050px) {
+  .sidetoc {
+    display: none;
+  }
+}
+
 /**
  * Syllabus
  */
@@ -218,8 +224,8 @@ li.tag-link {
   width: 160px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
-  top: 100px; /* Stay at the top */
-  left: auto;
+  top: 175px; /* Stay at the top */
+  left: $spacing-unit;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
 }
