@@ -8,8 +8,6 @@ last-updated: June 4, 2021
 
 - Phonology, Optimality Theory, Computational linguistics, African languages
 
-
-
 ## Academic Positions
 
 ### Current
@@ -83,6 +81,7 @@ last-updated: June 4, 2021
 
 ### Summer Programs
 
+- 2021, [May 2021 Data Science Boot Camp](https://www.erdosinstitute.org/may2021certificates/nick-danis)<br>Erdős Institute 
 - 2010, 3L Summer School on Language Documentation and Description<br>Leiden, Netherlands
 - 2010, Medumba Intensive Literacy Course<br>Comité de Langue pour l’Etude et la Production des Œuvres Bamiléké-Medumba (CEPOM) <br>Bangangté, Cameroon
 - 2009, LSA Summer Institute<br>University of California, Berkeley
@@ -107,7 +106,7 @@ last-updated: June 4, 2021
 
 ### Technical
 
-- Python/NLTK
+- Python (nltk, sklearn, scipy, pandas, matplotlib)
 - Praat
 - OTWorkplace/VBA
 - LaTeX
