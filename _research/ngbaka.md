@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Ngbaka
+layout: project
+title: Ngbaka co-occurrence restrictions
 ---
 
-tktk
+(in progress)
