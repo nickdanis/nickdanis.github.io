@@ -8,7 +8,7 @@ Sort by: [date]({{ site.baseurl }}{% link posts.md %}) \| [**tag**]({{ site.base
 <ul class="tag-list">
 {% assign all_tags = site.tags | sort %}
 {% for tag in all_tags %}
-{% assign size_pct = tag[1] | size | times: 5 | plus: 100 %}
+{% assign size_pct = tag[1] | size | times: 10 | plus: 100 %}
 <li class="tag-link" style="font-size: {{size_pct}}%"> <a href="#{{tag[0]}}">{{tag[0]}} </a> </li>
 {% endfor %}
 </ul>
