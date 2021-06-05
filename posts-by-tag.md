@@ -6,12 +6,13 @@ title: Posts
 Sort by: [date]({{ site.baseurl }}{% link posts.md %}) \| [**tag**]({{ site.baseurl }}{% link posts-by-tag.md %})
 
 <ul class="tag-list">
-{% for tag in site.tags %}
+{% assign all_tags = site.tags | sort %}
+{% for tag in all_tags %}
 <li class="tag-link"> <a href="#{{tag[0]}}">{{tag[0]}} ({{tag[1] | size}})</a> </li>
 {% endfor %}
 </ul>
 
-{% for tag in site.tags %}
+{% for tag in all_tags %}
 ## {{ tag[0] }}
   <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
