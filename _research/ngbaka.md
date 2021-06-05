@@ -1,7 +1,6 @@
 ---
 layout: project
-title: Research
-name: Ngbaka co-occurrence restrictions
+title: Ngbaka co-occurrence restrictions
 ---
 
 Starting with my dissertation research and continuing to the other works listed below, I parsed and analyzed a Ngbaka Minagende dictionary to look for co-occurrence restrictions among consonants. 
