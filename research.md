@@ -3,8 +3,10 @@ layout: page
 title: Research
 ---
 
+## Specific projects
+
 {% for page in site.research %}
-<ul>
+<ul class="project-list">
     <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 </ul>
 {% endfor %}
