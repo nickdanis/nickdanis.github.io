@@ -237,18 +237,10 @@ li.tag-link {
 
 ul.syl-toc-sub {
   list-style: none;
-  padding-left: 0;
+  margin-left: 15px;
 }
 
-ul.syl-toc-sub > li {
-  margin-left: 15px;  
-}
 
-/* Prevent nested li's from getting messed up */
-ul.syl-toc-sub > li::before {
-  content: "-";
-  margin-left: -15px;
-}
 
 /**
  * CV
