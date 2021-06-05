@@ -50,7 +50,7 @@ header_pages:
 - posts.md
 - cv.md
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
 theme: minima
