@@ -6,7 +6,7 @@ title: Teaching
 ## {{ site.current_semester }}
 
 {% for item in site.syllabi %}
-    {%- if item.semester == site.current_semester -%}
+    {%- if item.semester == site.current_semester and item.year == site.current_year -%}
 * [{{ item.title }}]({{ item.url }})
     {%- endif %}
 {% endfor %}
