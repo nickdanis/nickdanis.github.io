@@ -15,15 +15,18 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 
 ## Previous semesters
 
-{% assign all_semesters = "" | split: ',' %}
+<!-- {% assign all_semesters = "" | split: ',' %}
+
 
 {% for item in site.syllabi %}
     {% for sem in item.semester %}
         {% assign all_semesters = all_semesters | push: sem %}
     {% endfor %}
-{% endfor %}
+{% endfor %} -->
 
-{% for sem in all_semesters | uniq %}
+{% assign semesters = site.syllabi | map:'semester' | uniq %}
+
+{% for sem in semesters %}
 * A{{ sem }}A
 {% endfor %}
 
