@@ -226,6 +226,7 @@ li.tag-link {
 }
 
 .sidetoc {
+  margin: auto;
   height: 100%; /* Full-height: remove this if you want "auto" height */
   width: 160px; /* Set the width of the sidebar */
   // position: fixed; /* Fixed Sidebar (stay in place on scroll) */
@@ -233,7 +234,7 @@ li.tag-link {
   // right: 40px;
   // z-index: 1; /* Stay on top */
   top: 100px; /* Stay at the top */
-  left: -200px;
+  // left: -200px;
   // overflow-x: hidden; /* Disable horizontal scroll */
   font-size: 85%;
 }
