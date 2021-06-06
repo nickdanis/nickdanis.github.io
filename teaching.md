@@ -15,15 +15,15 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 
 ## Previous semesters
 
-{% assign syls = site.syllabi | nested_sort:"site.syllabi.title" %}
-
-<ul>
-{% for item in syl %}
+<table>
+<tr>
+{% for item in site.syllabi %}
     {%- if item.semester != site.current_semester -%}
-<li><a href="{{ item.url }}">{{ item.title }} ({{item.semester.}})</a></li>
+<td><a href="{{ item.url }}">{{ item.title }}</td> <td>{{item.semester}}</td>
     {%- endif -%}
 {% endfor %}
-</ul>
+</tr>
+</table>
 
 <ul>
 {% for item in site.syllabi %}
