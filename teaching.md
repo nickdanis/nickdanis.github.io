@@ -19,7 +19,8 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 <tr>
 {% for item in site.syllabi %}
     {%- if item.semester != site.current_semester -%}
-<td><a href="{{ item.url }}">{{ item.title }}</td> <td>{{item.semester}}</td>
+    {% assign sem = item.semester | split: ' ' %}
+<td><a href="{{ item.url }}">{{ item.title }}</td> <td>{{sem[0]}}</td> <td>{{sem[1]}}</td>
     {%- endif -%}
 {% endfor %}
 </tr>
