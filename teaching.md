@@ -18,7 +18,7 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 {% for item in site.syllabi %}
     {%- if item.semester != site.current_semester -%}
 * [{{ item.title }} ({{item.semester.}})]({{ item.url }})
-    {%- endif %}
+    {%- endif -%}
 {% endfor %}
 
 See my [CV]({{ site.baseurl }}{% link cv.md %}) for full teaching history. 
