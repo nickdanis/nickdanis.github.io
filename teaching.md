@@ -28,11 +28,16 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 {% assign years = site.syllabi | map:'year' | uniq | sort %}
 
 {% for year in years %}
-### {{ year }}
+<h3>{{ year }}</h3>
     {% for item in site.syllabi %}
-        {%- if item.year == year and item.year != site.current_year or item.semester != site.current_semester -%}
-* [{{item.semester.}} - {{ item.title }}]({{ item.url }})
-        {%- endif %}
+        {% for semester in semesters %}
+        <h4>{{ semester }} </h4>
+          {%- if item.year == year and item.year != site.current_year or item.semester != site.current_semester -%}
+            <ul>
+                <li> <a href="{{ item.url }}">{{ item.title }}</a></li>
+            </ul>
+          {%- endif %}
+        {% endfor %}
     {% endfor %}
 {% endfor %}
 
