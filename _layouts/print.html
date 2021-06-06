@@ -10,16 +10,13 @@
       <div class="wrapper">
         <div class="cv-back"><a href="{{ site.baseurl }}{% link index.md %}">←Back</a> <a href="#" onclick="window.print();return false;">Print to PDF</a></div>
       </div>
-      <div class="toc-wrapper">
-        <div class="sidetoc">
-          <p class="syl-toc-title">Contents</p>
-          {% include toc.html html=content sanitize=true class="syl-toc" id="my_toc" submenu_class="syl-toc-sub" h_min=2 h_max=3 %}
-        </div>
-        <div class="wrapper">
-          {{ content }}
-        </div>
-      </div>
-    </div>
+
+
+
+      {{ content }}
+
+
+
     </main>
 
   </body>
