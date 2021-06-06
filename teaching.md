@@ -15,16 +15,10 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 
 ## Previous semesters
 
-{% for item in site.syllabi %}
-    {%- if item.semester != site.current_semester -%}
-* [{{ item.title }} ({{item.semester.}})]({{ item.url }})
-    {%- endif -%}
-{% endfor %}
-
 <ul>
 {% for item in site.syllabi %}
     {%- if item.semester != site.current_semester -%}
-<li><a href="{{ item.url }}">{{ item.title }} ({{item.semester.}})]</a></li>
+<li><a href="{{ item.url }}">{{ item.title }} ({{item.semester.}})</a></li>
     {%- endif -%}
 {% endfor %}
 </ul>
