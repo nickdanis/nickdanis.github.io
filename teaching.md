@@ -30,7 +30,7 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 {% for year in years %}
 ### {{ year }}
     {% for item in site.syllabi %}
-        {%- if item.semester != site.current_semester or item.year != site.current_year -%}
+        {%- if item.year == year and item.year != site.current_year or item.semester != site.current_semester -%}
 * [{{item.semester.}} - {{ item.title }}]({{ item.url }})
         {%- endif %}
     {% endfor %}
