@@ -235,10 +235,16 @@ li.tag-link {
   position: sticky;
   // right: 40px;
   // z-index: 1; /* Stay on top */
-  top: 100px; /* Stay at the top */
+  top: 15px; /* Stay at the top */
   // left: -200px;
   // overflow-x: hidden; /* Disable horizontal scroll */
   font-size: 85%;
+}
+
+.toc-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: calc($content-width + 320px);
 }
 
 .syl-toc {
