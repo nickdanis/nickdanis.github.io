@@ -13,19 +13,7 @@ title: Teaching
 
 Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}.
 
-## Previous semesters
 
-
-
-<ul>
-{% for item in site.syllabi %}
-    {%- if item.semester != site.current_semester -%}
-<li><a href="{{ item.url }}">{{ item.title }} ({{item.semester.}})</a></li>
-    {%- endif -%}
-{% endfor %}
-</ul>
-
-See my [CV]({{ site.baseurl }}{% link cv.md %}) for full teaching history. 
 
 
 
