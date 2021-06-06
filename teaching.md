@@ -24,7 +24,7 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 {% endfor %}
 
 {% for sem in all_semesters %}
-* sem
+* {{ sem }}
 {% endfor %}
 
 {% for item in site.syllabi %}
