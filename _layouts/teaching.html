@@ -7,9 +7,14 @@ layout: page
 <h2>Previous syllabi</h2>
 <p>sortable?</p>
 <table class="table-sort">
-    <th>Term</th>
-    <th>Year</th>
-    <th>Course</th>
+    <thead>
+        <tr>
+            <th>Term</th>
+            <th>Year</th>
+            <th>Course</th>
+        </tr>
+    </thead>
+    <tbody>
     {% for item in site.syllabi %}
         {%- if item.semester != site.current_semester -%}
             {% assign sem = item.semester | split: ' ' %}
@@ -20,6 +25,7 @@ layout: page
             </tr>
         {%- endif -%}
     {% endfor %}
+    </tbody>
 </table>
 
 <p>See my <a href="{{ site.baseurl }}{% link cv.md %}">CV</a> for full teaching history.</p>
