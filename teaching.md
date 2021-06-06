@@ -23,7 +23,7 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
     {% endfor %}
 {% endfor %}
 
-{% for sem in all_semesters %}
+{% for sem in all_semesters | uniq %}
 * {{ sem }}
 {% endfor %}
 
