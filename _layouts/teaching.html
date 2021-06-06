@@ -5,13 +5,16 @@ layout: page
 {{ content }}
 
 <table>
+    <th>Term</th>
+    <th>Year</th>
+    <th>Course</th>
     {% for item in site.syllabi %}
         {%- if item.semester != site.current_semester -%}
             {% assign sem = item.semester | split: ' ' %}
             <tr>
+                <td>{{sem[0]}}</td>
+                <td>{{sem[1]}}</td> 
                 <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
-                <td>{{sem[0]}}</td> 
-                <td>{{sem[1]}}</td>
             </tr>
         {%- endif -%}
     {% endfor %}
