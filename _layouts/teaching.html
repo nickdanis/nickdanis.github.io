@@ -4,11 +4,15 @@ layout: page
 
 {{ content }}
 
-
-{% for item in site.syllabi %}
-    {%- if item.semester != site.current_semester -%}
-    <ul>
-        <li> <a href="{{ item.url }}">{{ item.title }} ({{item.semester}})</a></li>
-    </ul>
-    {%- endif %}
-{% endfor %}
+<table>
+    {% for item in site.syllabi %}
+        {%- if item.semester != site.current_semester -%}
+            {% assign sem = item.semester | split: ' ' %}
+            <tr>
+                <td><a href="{{ item.url }}">{{ item.title }}</td> 
+                <td>{{sem[0]}}</td> 
+                <td>{{sem[1]}}</td>
+            </tr>
+        {%- endif -%}
+    {% endfor %}
+</table>
