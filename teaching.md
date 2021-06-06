@@ -17,9 +17,9 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 
 {% assign all_semesters = "" | split: ',' %}
 
-{$ for item in site.syllabi $}
-    {% for sem in item.semester $}
-        {$ assign all_semesters = all_semesters | push: sem %}
+{% for item in site.syllabi %}
+    {% for sem in item.semester %}
+        {% assign all_semesters = all_semesters | push: sem %}
     {% endfor %}
 {% endfor %}
 
