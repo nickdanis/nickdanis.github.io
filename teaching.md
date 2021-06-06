@@ -16,14 +16,14 @@ Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}
 ## Previous semesters
 
 <table>
-<tr>
 {% for item in site.syllabi %}
     {%- if item.semester != site.current_semester -%}
     {% assign sem = item.semester | split: ' ' %}
+<tr>
 <td><a href="{{ item.url }}">{{ item.title }}</td> <td>{{sem[0]}}</td> <td>{{sem[1]}}</td>
+</tr>
     {%- endif -%}
 {% endfor %}
-</tr>
 </table>
 
 <ul>
