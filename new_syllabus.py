@@ -12,6 +12,7 @@ def build_header(course, semester):
     header = f"---\nlayout: syllabus\n"
     header += f"title: {course}\n"
     header += f"semester: {semester}\n"
+    header += f"toc: true\n"
     header += f"time: \n"
     header += f"location: \n"
     header += f"canvas-url: \n"
