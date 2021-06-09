@@ -44,7 +44,7 @@ layout: default
                   <a href="{{ site.baseurl }}{% link posts-by-tag.md %}#{{ tag_name }}">{{ tag_name }}</a>
               {% endfor %}
             </span>
-            {% if site.show_excerpts -%}
+            {%- if site.show_excerpts -%}
               {{ post.excerpt }}
             {%- endif -%}
           </div>
