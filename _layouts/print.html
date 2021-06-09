@@ -20,10 +20,14 @@
     </main>
 
   </body>
-
-  <footer class="print-footer">
-    <p>Last updated: {{ page.last-updated }}</p>
-
-  </footer>
+  {% if page.title == 'CV' %}
+    <footer class="print-footer cv-all">
+      <p>Last updated: {{ page.last-updated }}</p>
+    </footer>
+  {% else %} 
+    <footer class="print-footer">
+      <p>Last updated: {{ page.last-updated }}</p>
+    </footer>
+  {% endif %}
 
 </html>
