@@ -232,6 +232,9 @@ li.tag-link {
   .cv-all {
     @include relative-font-size(0.8);
   }
+  h1.cv-all {
+    @include relative-font-size(0.8);
+  }
 }
 
 @media print, screen and (max-width: 1200px) {
