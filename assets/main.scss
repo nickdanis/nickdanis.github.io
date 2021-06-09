@@ -229,6 +229,9 @@ li.tag-link {
   .cv-back {
     display: none !important;
   }
+  .cv-all {
+    @include relative-font-size(0.8);
+  }
 }
 
 @media print, screen and (max-width: 1200px) {
@@ -295,48 +298,10 @@ header.logo {
  * CV
  */
 
-//  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-// @font-face {
-//   font-family: "Crimson Text";
-//   src: url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-// }
-
-// @font-face {
-// 	font-family: "Junicode";
-// 	src: url("/assets/fonts/Junicode.ttf");
-//   font-weight: normal;
-//   font-style: normal;
-// }
-
-// @font-face {
-//   font-family: "Junicode";
-//   src: url("/assets/fonts/Junicode-Bold.ttf");
-//   font-weight: bold;
-//   font-style: normal;
-// }
-
-// @font-face {
-//   font-family: "Junicode";
-//   src: url("/assets/fonts/Junicode-Italic.ttf");
-//   font-style: italic, oblique;
-//   font-weight: normal;
-// }
-
-// @font-face {
-//   font-family: "Junicode";
-//   src: url("/assets/fonts/Junicode-BoldItalic.ttf");
-//   font-style: italic, oblique;
-//   font-weight: bold;
-// }
 
 .cv-all {
   font-family: 'Crimson Text';
 }
-
-// em.cv-all {
-//   font-style: italic;
-// }
 
 .cv-back {
   padding-top: 30px;
