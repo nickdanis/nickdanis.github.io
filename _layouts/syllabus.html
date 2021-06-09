@@ -17,8 +17,10 @@ layout: print
 
 <div class="toc-wrapper">
     <div class="sidetoc">
-      <p class="syl-toc-title">Contents</p>
-      {% include toc.html html=content sanitize=true class="syl-toc" id="my_toc" submenu_class="syl-toc-sub" h_min=2 h_max=3 %}
+      {% if page.toc == true %}
+        <p class="syl-toc-title">Contents</p>
+        {% include toc.html html=content sanitize=true class="syl-toc" id="my_toc" submenu_class="syl-toc-sub" h_min=2 h_max=3 %}
+      {% endif %}
     </div>
   
     <div class="wrapper">
