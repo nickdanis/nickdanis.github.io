@@ -34,7 +34,7 @@ last-updated: June 4, 2021
 
 ### Washington University in St. Louis
 
-| Course | Name | Semesters |
+| Course {.course} | Name | Semesters |
 |---|---|---|
 | L44 Ling 148 | The Linguistics of Constructed Languages | Fall 2019, 2020, 2021; Spring 2021; Summer 2021 |
 | L44 Ling 170D | Introduction to Linguistics | Fall 2019, 2020, Spring 2019, 2021 |
