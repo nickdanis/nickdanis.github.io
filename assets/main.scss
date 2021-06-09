@@ -308,13 +308,15 @@ header.logo {
     list-style-type: square;
   }
   table {
+    margin-left: 4em;
     margin-bottom: $spacing-unit;
     width: 80%;
     text-align: $table-text-align;
     color: $text-color;
     border-collapse: collapse;
     border: 0;
-    border-bottom-style: none;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
     th, td {
       padding: 0;
     }
@@ -326,7 +328,7 @@ header.logo {
     th {
       background-color: $background-color;
       border: 0;
-      border-bottom-color: black;
+      border-bottom: 3px solid black;
     }
     td {
       border: 0;
