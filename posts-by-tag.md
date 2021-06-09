@@ -15,10 +15,10 @@ Sort by: [date]({{ site.baseurl }}{% link posts.md %}) \| [**tag**]({{ site.base
 
 {% for tag in all_tags %}
 ## {{ tag[0] }}
-  <ul class="post-list">
+  <ul class="post-list by-tag">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {% for post in tag[1] %}
-      <li>
+      <li class="by-tag-item">
         <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
       </li>

@@ -209,6 +209,8 @@ ul.post-list {
   }
 }
 
+
+
 /**
  * Tags
  */
@@ -223,6 +225,14 @@ ul.tag-list {
 
 li.tag-link {
   padding-right: $spacing-unit;
+}
+
+.by-tag {
+  display: flex; 
+}
+
+.by-tag-item {
+  flex-basis: 200px;
 }
 
 @media print {
