@@ -308,6 +308,7 @@ header.logo {
     list-style-type: square;
   }
   table {
+    table-layout: fixed;
     margin-left: 2em;
     margin-bottom: $spacing-unit;
     width: 100%;
@@ -336,7 +337,10 @@ header.logo {
       vertical-align: text-top;
       &:nth-child(1) {
         white-space: nowrap;
-        background-color: yellow;
+        width: 20%;
+      }
+      &:nth-child(2) {
+        width: 50%;
       }
     }
   }
