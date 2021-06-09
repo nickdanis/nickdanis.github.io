@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to send a Canvas announcement from your email app
-tags: tutorial
+tags: tutorial teaching
 published: false
 ---
 
