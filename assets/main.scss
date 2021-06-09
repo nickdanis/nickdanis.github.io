@@ -15,7 +15,6 @@ html {
 
 
 
-
 /**
  * Site header
  */
@@ -281,6 +280,15 @@ header.logo {
 /**
  * CV
  */
+
+ @font-face {
+	font-family: "Junicode";
+	src: url("/assets/fonts/JuniusX-Regular.ttf");
+}
+
+.cv-all {
+  font-family: 'Junicode';
+}
 
 .cv-back {
   padding-top: 30px;
