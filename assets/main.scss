@@ -307,6 +307,25 @@ header.logo {
   ul {
     list-style-type: square;
   }
+  table {
+    margin-bottom: $spacing-unit;
+    width: 100%;
+    text-align: $table-text-align;
+    color: lighten($text-color, 18%);
+    border-collapse: collapse;
+    border: 0;
+    th, td {
+      padding: ($spacing-unit / 5) ($spacing-unit / 5);
+    }
+    th {
+      background-color: lighten($grey-color-light, 3%);
+      border: 1px solid darken($grey-color-light, 4%);
+      border-bottom-color: black;
+    }
+    td {
+      border: 0;
+    }
+  }
 }
 
 .cv-back {
