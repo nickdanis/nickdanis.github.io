@@ -246,7 +246,9 @@ li.tag-link {
 
 @media print, screen and (max-width: 1200px) {
   .sidetoc {
-    display: none;
+    // display: none;
+    float: none;
+    position:static;
   }
 }
 

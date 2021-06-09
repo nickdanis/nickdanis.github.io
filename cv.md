@@ -107,6 +107,7 @@ last-updated: June 4, 2021
 ### Technical
 
 - Python (nltk, sklearn, scipy, pandas, matplotlib)
+- HTML/CSS
 - Praat
 - OTWorkplace/VBA
 - LaTeX
