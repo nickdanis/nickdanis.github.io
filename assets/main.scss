@@ -335,6 +335,8 @@ header.logo {
     td {
       border: 0;
       vertical-align: text-top;
+    }
+    th {
       &:nth-child(1) {
         white-space: nowrap;
         width: 10em;
