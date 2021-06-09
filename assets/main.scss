@@ -334,6 +334,9 @@ header.logo {
     td {
       border: 0;
       vertical-align: text-top;
+      &:nth-child(1) {
+        white-space: nowrap;
+      }
     }
   }
 }
