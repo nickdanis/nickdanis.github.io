@@ -287,26 +287,27 @@ header.logo {
   font-weight: normal;
   font-style: normal;
 }
-@font-face {
-  font-family: "Junicode";
-  src: url("/assets/fonts/Junicode-Bold.ttf");
-  font-weight: bold;
-  font-style: normal;
-}
 
-@font-face {
-  font-family: "Junicode";
-  src: url("/assets/fonts/Junicode-Italic.ttf");
-  font-style: italic, oblique;
-  font-weight: normal;
-}
+// @font-face {
+//   font-family: "Junicode";
+//   src: url("/assets/fonts/Junicode-Bold.ttf");
+//   font-weight: bold;
+//   font-style: normal;
+// }
 
-@font-face {
-  font-family: "Junicode";
-  src: url("/assets/fonts/Junicode-BoldItalic.ttf");
-  font-style: italic, oblique;
-  font-weight: bold;
-}
+// @font-face {
+//   font-family: "Junicode";
+//   src: url("/assets/fonts/Junicode-Italic.ttf");
+//   font-style: italic, oblique;
+//   font-weight: normal;
+// }
+
+// @font-face {
+//   font-family: "Junicode";
+//   src: url("/assets/fonts/Junicode-BoldItalic.ttf");
+//   font-style: italic, oblique;
+//   font-weight: bold;
+// }
 
 .cv-all {
   font-family: 'Junicode';
