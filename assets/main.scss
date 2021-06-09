@@ -230,10 +230,9 @@ li.tag-link {
     display: none !important;
   }
   .cv-all {
-    @include relative-font-size(0.8);
-  }
-  h1.cv-all {
-    @include relative-font-size(0.8);
+    h1, h2, h3 {
+      @include relative-font-size(0.8);
+    }
   }
 }
 
