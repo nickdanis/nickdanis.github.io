@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Typing IPA symbols on your computer
-tags: phonetics phonology tools
+tags: phonetics phonology tutorial
 thumbnail: /assets/posts/ipa-keyman.png
 ---
 

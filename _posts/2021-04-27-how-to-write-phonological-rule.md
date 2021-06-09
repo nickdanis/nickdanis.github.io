@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to write a phonological rule in Microsoft Word
-tags: phonology tools
+tags: phonology tutorial
 thumbnail: /assets/posts/rule-alignment.png
 ---
 
