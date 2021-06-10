@@ -241,7 +241,13 @@ li.tag-link {
     display: none !important;
   }
   .cv-all {
-    font-size: 80%;
+    font-size: 90%;
+  }
+  .syllabus {
+    th, td {
+      padding: 1pt ($spacing-unit / 5);
+    }
+    font-size: 95%;
   }
 }
 
