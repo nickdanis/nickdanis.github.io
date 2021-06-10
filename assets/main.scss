@@ -268,6 +268,13 @@ li.tag-link {
   h3 {
     font-style: italic;
   }
+  table {
+    margin-right: auto;
+  }
+  table::before {
+    max-width: 30px;
+    content: "";
+  }
  }
 
 .syl-header {
