@@ -261,7 +261,7 @@ li.tag-link {
    th, td {
     padding: ($spacing-unit / 10) ($spacing-unit / 5);
   }
-  th {
+  th, thead {
     vertical-align: text-bottom;
   }
   h1 {
@@ -282,6 +282,7 @@ li.tag-link {
 
   h2, h3 {
     margin-bottom: 0;
+    letter-spacing: -1px;
   } 
  }
 
