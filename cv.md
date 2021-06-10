@@ -111,8 +111,7 @@ last-updated: June 4, 2021
   * ★★★☆☆ pandas
   * ★★★☆☆ matplotlib
   * ★★☆☆☆ sklearn
-  * ★★☆☆☆ scipy
-{: #skill-sub-list} 
+  * ★★☆☆☆ scipy 
 * ★★★☆☆ HTML/CSS
 * ★★★★☆ Praat
 * ★★★★★ OTWorkplace/VBA

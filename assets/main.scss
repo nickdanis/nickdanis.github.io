@@ -385,6 +385,11 @@ header.logo {
    margin-left: $spacing-unit / 2;
  }
 
+ #skill-list > li > ul {
+  list-style-type: none;
+  margin-left: $spacing-unit / 2;
+ }
+
  /**
  * Tables
  */
