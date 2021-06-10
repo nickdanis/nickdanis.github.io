@@ -6,25 +6,25 @@ last-updated: June 4, 2021
 
 ## Research interests
 
-- Phonology, Optimality Theory, Computational linguistics, African languages
+* Phonology, Optimality Theory, Computational linguistics, African languages
 
 ## Academic Positions
 
 ### Current
 
-- Lecturer, Washington University in St. Louis (since 2019)
+* Lecturer, Washington University in St. Louis (since 2019)
 
 ### Previous
 
-- 2017-2019, Lecturer, Princeton University (10%-60% FTE)
-- 2018, Adjunct Professor, Rowan University
+* 2017-2019, Lecturer, Princeton University (10%-60% FTE)
+* 2018, Adjunct Professor, Rowan University
 
 ## Education
 
-- 2017, PhD in Linguistics, Rutgers University
-- 2011, MA in Applied Linguistics, Boston University
-- 2008, B.A. in Linguistics, *cum laude*, Boston University
-- 2008, B.S. in Film and Television, *cum laude*, Boston University
+* 2017, PhD in Linguistics, Rutgers University
+* 2011, MA in Applied Linguistics, Boston University
+* 2008, B.A. in Linguistics, *cum laude*, Boston University
+* 2008, B.S. in Film and Television, *cum laude*, Boston University
 
 ## Publications
 
@@ -64,50 +64,56 @@ last-updated: June 4, 2021
 
 ## Field Experience
 
-- 2010, Medumba ([byv], Grassfields Bantu, Cameroon): Conducted one month of intensive fieldwork in Yaoundé, Bangangté, and local surrounding villages. Funded by NSF Grant BCS 1026724.
+* 2010, Medumba ([byv], Grassfields Bantu, Cameroon): Conducted one month of intensive fieldwork in Yaoundé, Bangangté, and local surrounding villages. Funded by NSF Grant BCS 1026724.
 
 ## Service
 
 ### Reviewing
 
-- 2021, *Stellenbosch Papers in Linguistics Plus*
-- 2020, *Natural Language and Linguistic Theory*
-- 2018-2020, *Phonology*
-- 2019, Cambridge University Press
-- 2017, Oxford University Press
-- 2015, *Diversity in African languages: Selected papers from the 46th Annual Conference on African Linguistics*
+* 2021, *Stellenbosch Papers in Linguistics Plus*
+* 2020, *Natural Language and Linguistic Theory*
+* 2018-2020, *Phonology*
+* 2019, Cambridge University Press
+* 2017, Oxford University Press
+* 2015, *Diversity in African languages: Selected papers from the 46th Annual Conference on African Linguistics*
 
 ## Other Education
 
 ### Summer Programs
 
-- 2021, [May 2021 Data Science Boot Camp](https://www.erdosinstitute.org/may2021certificates/nick-danis)<br>Erdős Institute 
-- 2010, 3L Summer School on Language Documentation and Description<br>Leiden, Netherlands
-- 2010, Medumba Intensive Literacy Course<br>Comité de Langue pour l’Etude et la Production des Œuvres Bamiléké-Medumba (CEPOM) <br>Bangangté, Cameroon
-- 2009, LSA Summer Institute<br>University of California, Berkeley
+* 2021, [May 2021 Data Science Boot Camp](https://www.erdosinstitute.org/may2021certificates/nick-danis)<br>Erdős Institute 
+* 2010, 3L Summer School on Language Documentation and Description<br>Leiden, Netherlands
+* 2010, Medumba Intensive Literacy Course<br>Comité de Langue pour l’Etude et la Production des Œuvres Bamiléké-Medumba (CEPOM) <br>Bangangté, Cameroon
+* 2009, LSA Summer Institute<br>University of California, Berkeley
 
 ### Awards
 
-- 2019, Washington University Course Innovation Grant
-- 2016, Mellon Summer Study Grant
-- 2014, Excellence Fellowship for doctoral study in Linguistics
-- 2014, Mellon Summer Study Grant
-- 2011-2012, Excellence Fellowship for doctoral study in Linguistics
+* 2019, Washington University Course Innovation Grant
+* 2016, Mellon Summer Study Grant
+* 2014, Excellence Fellowship for doctoral study in Linguistics
+* 2014, Mellon Summer Study Grant
+* 2011-2012, Excellence Fellowship for doctoral study in Linguistics
 
 ## Skills
 
 ### Language
 
-- English (native)
-- Italian (intermediate to advanced)
-- Medumba [byv] (research and field knowledge)
-- French, German (academic reading)
-- ASL (basic)
+* English (native)
+* Italian (intermediate to advanced)
+* Medumba [byv] (research and field knowledge)
+* French, German (academic reading)
+* ASL (basic)
 
 ### Technical
 
-- Python (nltk, sklearn, scipy, pandas, matplotlib)
-- HTML/CSS
-- Praat
-- OTWorkplace/VBA
-- LaTeX
+* ★★★★☆ Python 
+  * ★★★★☆ nltk 
+  * ★★★☆☆ pandas
+  * ★★★☆☆ matplotlib
+  * ★★☆☆☆ sklearn
+  * ★★☆☆☆ scipy 
+* ★★★☆☆ HTML/CSS
+* ★★★★☆ Praat
+* ★★★★★ OTWorkplace/VBA
+* ★★★★☆ LaTeX
+{: #skill-list}
