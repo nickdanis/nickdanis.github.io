@@ -265,8 +265,8 @@ li.tag-link {
     vertical-align: text-bottom;
   }
   h1 {
-    font-weight: bolder;
-    letter-spacing: -1px;
+    // font-weight: bolder;
+    letter-spacing: -2px;
     line-height: 1;
     @include relative-font-size(2.625);
   }
