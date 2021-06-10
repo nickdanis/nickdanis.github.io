@@ -228,7 +228,8 @@ li.tag-link {
 }
 
 .by-tag {
-  display: flex; 
+  display: flex;
+  flex-flow: row wrap; 
 }
 
 .by-tag-item {
@@ -287,6 +288,16 @@ li.tag-link {
 .syl-header {
   display: flex;
   justify-content: space-between;
+}
+
+.grade-conv {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.grade-conv-list {
+  list-style-type: none;
+  margin-left: $spacing-unit / 2;
 }
 
 .sidetoc {
