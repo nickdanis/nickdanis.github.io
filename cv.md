@@ -106,14 +106,14 @@ last-updated: June 4, 2021
 
 ### Technical
 
+* ★★★★★ OTWorkplace/VBA
 * ★★★★☆ Python 
   * ★★★★☆ nltk 
-  * ★★★☆☆ pandas
-  * ★★★☆☆ matplotlib
+  * ★★★☆☆ pandas/matplotlib
+  * ★★☆☆☆ flask
   * ★★☆☆☆ sklearn
-  * ★★☆☆☆ scipy 
-* ★★★☆☆ HTML/CSS
+  * ★★☆☆☆ scipy
 * ★★★★☆ Praat
-* ★★★★★ OTWorkplace/VBA
-* ★★★★☆ LaTeX
+* ★★★★☆ LaTeX 
+* ★★★☆☆ HTML/CSS
 {: #skill-list}
