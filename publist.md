@@ -40,3 +40,10 @@
 - Danis, Nick, Jeffrey Heinz and Adam Jardine. 2018. [How constraints refer to nothing: The correct notion of substructure for phonology](/assets/posters/danis-et-al2018-lsa-poster.pdf). Poster that was present at the 2018 LSA. 
 - Danis, Nick. 2018. A theory of cross-category agreement and new evidence for unified place features. Poster that never made it to the 2018 LSA due to inclement weather. See the AMP 2018 version.
 - Danis, Nick. 2017. [Phonetics of Yoruba vowel deletion: durational evidence for hidden structure](/assets/posters/danis2017-acal48-poster.pdf). ACAL 48, Indiana University. March 30-April 2, 2017. Poster.
+
+## Student Work
+
+* Calhoun, Adrianna. 2021. Invisible Issues: Exploring the Unspoken Rift Between the Black Community and the Field of Speech-Language Pathology. Senior honor's thesis, Washington University in St. Louis. (reader)
+* Goldberg, Jack. 2021. Phonological treatment of affricates in Yiddish and segmental analysis. Poster presented at CULC 15. (directed study adisor)
+* Zhang, Yutong. 2021. A phonological analysis of the word-borrowing process in Volapük. Senior honor's thesis, Washington University in St. Louis. (primary advisor)
+* Goldberg, Jack. 2020. Phonological treatment of affricates in Yiddish. Poster presented at Midphon 25. (directed study advisor)
