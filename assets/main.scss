@@ -271,6 +271,7 @@ li.tag-link {
   table {
     margin-right: auto;
     width:auto;
+    vertical-align: middle;
   }
   table::before {
     width: 30px;
@@ -302,7 +303,7 @@ li.tag-link {
   top: 15px; /* Stay at the top */
   // left: -200px;
   // overflow-x: hidden; /* Disable horizontal scroll */
-  font-size: 85%;
+  font-size: 80%;
 }
 
 .toc-wrapper {
