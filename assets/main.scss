@@ -260,6 +260,9 @@ li.tag-link {
    th, td {
     padding: ($spacing-unit / 10) ($spacing-unit / 5);
   }
+  th {
+    vertical-align: bottom;
+  }
   h1 {
     letter-spacing: -1px;
     line-height: 1;
@@ -271,7 +274,6 @@ li.tag-link {
   table {
     margin-right: auto;
     width:auto;
-    vertical-align: middle;
   }
   table::before {
     width: 30px;
