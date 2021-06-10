@@ -262,6 +262,7 @@ li.tag-link {
   }
   h1 {
     letter-spacing: -1px;
+    line-height: 1;
     @include relative-font-size(2.625);
   }
   h3 {
