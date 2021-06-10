@@ -257,6 +257,9 @@ li.tag-link {
  .syllabus {
    font-family: 'Crimson Text';
    font-size: 110%;
+   th, td {
+    padding: ($spacing-unit / 10) ($spacing-unit / 5);
+  }
  }
 
 .syl-header {
