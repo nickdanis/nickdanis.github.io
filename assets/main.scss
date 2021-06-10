@@ -380,6 +380,11 @@ header.logo {
    font-style: italic;
  }
 
+ #skill-list {
+   list-style-type: none;
+   margin-left: $spacing-unit / 2;
+ }
+
  /**
  * Tables
  */
