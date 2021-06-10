@@ -261,9 +261,10 @@ li.tag-link {
     padding: ($spacing-unit / 10) ($spacing-unit / 5);
   }
   th {
-    vertical-align: bottom;
+    vertical-align: text-bottom;
   }
   h1 {
+    font-weight: bolder;
     letter-spacing: -1px;
     line-height: 1;
     @include relative-font-size(2.625);
@@ -272,11 +273,13 @@ li.tag-link {
     font-style: italic;
   }
   table {
+    display:inline-block;
     margin-top: 0.5em;
     margin-right: auto;
     width:auto;
   }
   table::before {
+    display:inline-block;
     width: 30px;
     max-width: 30px;
     content: "";
