@@ -1,7 +1,8 @@
 def get_semester():
     semester = input("Semester? " )
     file_semester = semester.split()[0][:2].lower() + semester.split()[1]
-    return semester, file_semester
+    year = semester.split()[1]
+    return semester, file_semester, year
 
 def get_course():
     course = input("Course? ")
@@ -12,6 +13,7 @@ def build_header(course, semester):
     header = f"---\nlayout: syllabus\n"
     header += f"title: {course}\n"
     header += f"semester: {semester}\n"
+    header += f"year: {year}\n"
     header += f"toc: true\n"
     header += f"time: \n"
     header += f"location: \n"
@@ -21,7 +23,7 @@ def build_header(course, semester):
     header += f"---\n\n"
     return header
 
-semester, file_semester = get_semester()
+semester, file_semester, year = get_semester()
 course, file_course = get_course()
 
 filename = f"{file_semester}-{file_course}.md"

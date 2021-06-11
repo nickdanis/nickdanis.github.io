@@ -19,7 +19,7 @@ collections:
   syllabi:
     output: true
     permalink: /:collection/:name
-    sort-by: title
+    sort-by: year
   research:
     output: true
     permalink: /:collection/:name

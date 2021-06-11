@@ -1,17 +1,18 @@
 ---
 layout: syllabus
-title: Ling 427 Computation and Learnability in Linguistic Theory
+title: Test Class
 semester: Fall 2021
 year: 2021
+toc: true
 time: 
 location: 
 canvas-url: 
 published: false
-last-updated: June 4, 2021
+last-updated: 
 ---
 
 ## Description
-TKTKTK
+
 
 ## Course Info
 
@@ -23,9 +24,6 @@ TKTKTK
 | Office        | {{ site.fa2021.office-location }}           |
 | Office Hours  | {{ site.fa2021.office-hours }}              | 
 | Homepage      | [Canvas]({{ page.canvas-url }})             | 
-
-* TOC
-{:toc}
 
 ## Goals
 
