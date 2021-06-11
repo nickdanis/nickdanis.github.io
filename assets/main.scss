@@ -271,13 +271,14 @@ li.tag-link {
  */
 
 .syllabus {
-   font-family: 'Crimson Text';
-   font-size: 110%;
-   th {
+  font-family: 'Crimson Text';
+  font-size: 110%;
+  th {
      line-height: 1.3;
-   }
-   td, th {
-    padding: ($spacing-unit / 10) ($spacing-unit / 5) ($spacing-unit / 8) ($spacing-unit / 5);
+     padding: ($spacing-unit / 6) ($spacing-unit / 5) ($spacing-unit / 10); //  top rightleft bottom
+  }
+  td {
+    padding: ($spacing-unit / 10) ($spacing-unit / 5); 
   }
   span {
     background-color: gold;
