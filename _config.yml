@@ -52,6 +52,7 @@ header_pages:
 - posts.md
 - cv.md
 
+permalink: pretty
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
