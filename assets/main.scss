@@ -360,6 +360,11 @@ ul.syl-toc-sub {
 }
 header.logo {
   margin-right: 15px;
+  svg {
+      height: 100px;
+      width: auto;
+      fill:black;
+  }
 }
 
 
