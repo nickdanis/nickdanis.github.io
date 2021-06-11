@@ -2,13 +2,7 @@
 layout: print
 ---
 <article class="syllabus">
-<div class="wrapper toc-wrapper">
-  <div class="sidetoc">
-    {% if page.toc == true %}
-      <p class="syl-toc-title">Contents</p>
-      {% include toc.html html=content sanitize=true class="syl-toc" id="my_toc" submenu_class="syl-toc-sub" h_min=2 h_max=3 %}
-    {% endif %}
-  </div>
+<div class="wrapper">
   <div class="syl-header">
     <header>
       <h1>{{ page.title | escape }}</h1>
@@ -21,11 +15,16 @@ layout: print
   </div>
 </div>
 
-
-
+<div class="toc-wrapper">
+    <div class="sidetoc">
+      {% if page.toc == true %}
+        <p class="syl-toc-title">Contents</p>
+        {% include toc.html html=content sanitize=true class="syl-toc" id="my_toc" submenu_class="syl-toc-sub" h_min=2 h_max=3 %}
+      {% endif %}
+    </div>
   
     <div class="wrapper">
         {{ content }}
     </div>
-
+  </div>
 </article>
