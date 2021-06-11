@@ -55,7 +55,7 @@ html {
 // don't move nav links if bold
 // https://stackoverflow.com/questions/5687035/css-bolding-some-text-without-changing-its-containers-size
 .page-link::after {
-  display: inline-block;
+  display: block;
   content: attr(title);
   font-weight: bold;
   height: 1px;
