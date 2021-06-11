@@ -276,6 +276,9 @@ li.tag-link {
    th, td {
     padding: ($spacing-unit / 10) ($spacing-unit / 5);
   }
+  span {
+    background-color: gold;
+  }
   th, thead {
     vertical-align: bottom;
   }

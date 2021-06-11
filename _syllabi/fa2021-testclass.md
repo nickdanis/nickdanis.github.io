@@ -7,11 +7,13 @@ toc: true
 time: 
 location: 
 canvas-url: 
-published: false
+published: true
 last-updated: 
 ---
 
 ## Description
+
+This is a <span>test</span> . Yes that's right.
 
 
 ## Course Info
