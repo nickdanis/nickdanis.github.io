@@ -253,6 +253,13 @@ li.tag-link {
   }
 }
 
+@include media-query($on-palm) {
+  cv-all.table {
+    table-layout: auto;
+  }
+}
+
+
 @media print, screen and (max-width: 1200px) {
   .sidetoc {
     display: none;
