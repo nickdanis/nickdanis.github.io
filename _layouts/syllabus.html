@@ -3,7 +3,7 @@ layout: print
 ---
 
 <article class="syllabus">
-  <div class="toc-wrapper"></div>
+  <div class="toc-wrapper">
     <div class="sidetoc">
       {% if page.toc == true %}
         <p class="syl-toc-title">Contents</p>
@@ -11,6 +11,7 @@ layout: print
       {% endif %}
     </div>
     <div class="wrapper">
+
       <div class="syl-header">
         <header>
           <h1>{{ page.title | escape }}</h1>
@@ -23,7 +24,7 @@ layout: print
       </div>
 
     {{ content }}
-    
+
     </div>
   </div>
 </article>
