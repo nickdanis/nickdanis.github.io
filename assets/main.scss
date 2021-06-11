@@ -318,14 +318,14 @@ li.tag-link {
 
 .sidetoc {
   font-family: $base-font-family;
-  // float: left;
-  // margin-left: auto;
+  float: left;
+  margin-left: auto;
   margin-right: 30px;
   margin-top: 0;
   height: 100%; /* Full-height: remove this if you want "auto" height */
   width: 160px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  // position: sticky;
+  // position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  position: sticky;
   // right: 40px;
   z-index: 1; /* Stay on top */
   top: 15px; /* Stay at the top */
