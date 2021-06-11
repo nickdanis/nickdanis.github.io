@@ -21,7 +21,7 @@
               {%- assign my_page = site.pages | where: "path", path | first -%}
               {%- if my_page.title -%}
                 {%- if my_page.title == page.title -%} 
-                    <a class="curr-page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                    <a class="curr-page-link page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
                 {%- else -%} 
                     <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
                 {%- endif -%}
