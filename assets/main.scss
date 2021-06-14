@@ -49,11 +49,11 @@ html {
 }
 
 
-.page-link {
-  float: right;
-  margin-right: 0px;
-  margin-left: 20px;
-}
+// .page-link {
+//   float: right;
+//   margin-right: 0px;
+//   margin-left: 20px;
+// }
 // don't move nav links if bold
 // https://stackoverflow.com/questions/5687035/css-bolding-some-text-without-changing-its-containers-size
 // .page-link::after {
@@ -77,7 +77,7 @@ html {
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $text-color;
   }
 }
 
