@@ -51,19 +51,21 @@ html {
 
 .page-link {
   float: right;
+  margin-right: 0px;
+  margin-left: 20px;
 }
 // don't move nav links if bold
 // https://stackoverflow.com/questions/5687035/css-bolding-some-text-without-changing-its-containers-size
-.page-link::after {
-  display: block;
-  // float: right;
-  content: attr(title);
-  font-weight: bold;
-  height: 1px;
-  color: transparent;
-  overflow: hidden;
-  visibility: hidden;
-}
+// .page-link::after {
+//   display: block;
+//   // float: right;
+//   content: attr(title);
+//   font-weight: bold;
+//   height: 1px;
+//   color: transparent;
+//   overflow: hidden;
+//   visibility: hidden;
+// }
 
 .site-title {
   @include relative-font-size(1.625);
