@@ -56,7 +56,7 @@ html {
 // https://stackoverflow.com/questions/5687035/css-bolding-some-text-without-changing-its-containers-size
 .page-link::after {
   display: block;
-  float: right;
+  // float: right;
   content: attr(title);
   font-weight: bold;
   height: 1px;
