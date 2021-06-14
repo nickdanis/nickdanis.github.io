@@ -82,8 +82,8 @@ html {
 }
 
 .curr-page-link {
-  font-weight: bold;
-  color: maroon;
+  // font-weight: bold;
+  text-decoration: overline underline;
   line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
