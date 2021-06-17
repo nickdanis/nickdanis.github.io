@@ -5,11 +5,13 @@ title: Research
 
 ## Projects
 
-{% for page in site.research %}
+
 <ul class="project-list">
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-</ul>
+{% for page in site.research %}
+<li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endfor %}
+</ul>
+
 
 
 
