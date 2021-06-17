@@ -2,6 +2,8 @@ import yaml, os, re
 from pyhtml2pdf import converter
 from dateutil.parser import parse
 
+# makes pdfs from live web versions
+
 update_after = parse('June 10, 2021')
 
 def get_tags(raw_contents):
