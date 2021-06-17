@@ -14,7 +14,7 @@
           {% else %} 
             <a href="{{ site.baseurl }}{% link index.md %}">←Back</a>
           {% endif %}
-          {% if page.collection == 'syllabi' and page.pdf == 'true' %}
+          {% if page.collection == 'syllabi' and page.pdf == true %}
             <a href="{{ site.baseurl }}/assets/pdfsyllabi/{{ page.path }}">Save as PDF</a>
           {% else %}
             <a href="#" onclick="window.print();return false;">Print to PDF</a>
