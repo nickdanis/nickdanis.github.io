@@ -1,10 +1,15 @@
 import yaml, os, re, sys
 from pyhtml2pdf import converter
 from dateutil.parser import parse
+from datetime import datetime, timedelta
 
 # makes pdfs from live web versions
+raw_date = sys.argv[1]
 
-update_after = parse(sys.argv[1])
+if raw_date == "today":
+    update_after = datetime.today() - timedelta(days = 1)
+else:
+    update_after = parse(raw_date)
 
 print(f"Updating PDFs modified after {update_after}...")
 
