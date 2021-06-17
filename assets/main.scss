@@ -285,6 +285,20 @@ li.tag-link {
   }
 }
 
+// syllabus footer
+@media screen {
+  .syl-footer {
+    display: none
+  }
+}
+@media print {
+  .syl-footer {
+    position: fixed;
+    bottom: 5px;
+    left: 10px;
+  }
+}
+
 /**
  * Syllabus
  */
