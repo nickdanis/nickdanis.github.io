@@ -17,6 +17,7 @@ layout: print
           <h1>{{ page.title | escape }}</h1>
           <p>Dr. {{ site.author.name }}, <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
             <br> <em>{{ site.description }}</em></p>
+            <div class="syl-footer"><br> Web version: <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a></div> 
         </header>
         <header class="logo">
           <!-- <img src="/assets/decorative/shield.png" style="max-height:100px;width:auto;"> -->
@@ -29,5 +30,5 @@ layout: print
     </div>
   </div>
 
-  <div class="syl-footer">{{site.url}}{{page.url}}</div>
+  
 </article>
