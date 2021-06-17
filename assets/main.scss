@@ -294,7 +294,7 @@ li.tag-link {
 @media print {
   .syl-footer {
     position: fixed;
-    bottom: 0;
+    bottom: -1em;
     left: 50%;
     transform: translate(-50%,-50%);
     font-size: smaller;
