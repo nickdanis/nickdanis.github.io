@@ -519,7 +519,9 @@ table {
   td {
     &:nth-child(n+2) {
       text-align: center;
-      background-color: aqua;
     }
+  }
+  td:nth-child(1)::before {
+    content: "a. ";
   }
 }
