@@ -7,7 +7,7 @@ Optimality Theory is a constraint-based, parallel grammatical framework. This co
 
 ### GEN
 
-GEN takes a given [input]({% link _wiki/candidates.md %}) and **generates** a set of possible output forms. 
+GEN takes a given [input]({% link _wiki/candidates.md#input %}) and **generates** a set of possible output forms. 
 
 ### CON
 
