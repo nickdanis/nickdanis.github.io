@@ -530,6 +530,9 @@ table.ottab {
       text-align: center;
     }
   }
+  td:nth-child(1) {
+    border-right: none !important;
+  }
   td:nth-child(2) {
     border-left: none !important;
     &::before {
