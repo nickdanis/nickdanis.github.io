@@ -531,6 +531,6 @@ body {
   }
   td:nth-child(1)::before {
     counter-increment: cand;
-    content: counter(cand)". ";
+    content: counter(cand, lower-alpha)". ";
   }
 }
