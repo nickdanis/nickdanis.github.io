@@ -552,7 +552,7 @@ table.vt {
 }
 
 table.ct {
-  tr:nth-child(n+2) {
+  tr:nth-child(n+3) {
     td:nth-child(1)::before {
       counter-increment: cand;
       content: counter(cand, lower-alpha)". ";
