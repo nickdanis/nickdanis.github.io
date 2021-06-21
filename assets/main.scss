@@ -533,6 +533,6 @@ table.ottab {
   td:nth-child(2)::before {
     counter-increment: cand;
     content: counter(cand, lower-alpha)". ";
-    border-left: none;
+    border-left: none !important;
   }
 }
