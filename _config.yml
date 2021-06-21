@@ -24,6 +24,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:name
+  wiki:
+    output: true
+    permalink: /:collection/:name
 
 
 fa2021:
