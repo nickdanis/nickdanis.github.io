@@ -519,6 +519,7 @@ table {
   tr {
     %:nth-child(n+1) {
       text-align: center;
+      background-color: aqua;
     }
   }
 }
