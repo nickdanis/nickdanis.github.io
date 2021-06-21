@@ -569,9 +569,10 @@ table.ct {
 }
 
 .wiki-toc-heading {
+  display: inline-block;
   width: auto;
   background-color: #f0f0f0;
-  padding: 0.5rem;
+  padding: 0.5rem 1rem;
   p {
     margin-bottom: 0;
     font-weight: bold;
