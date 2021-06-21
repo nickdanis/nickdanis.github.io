@@ -11,6 +11,7 @@ title: Tableaux
 | b. pampa  |     |     |       | *     |
 | c. papa   | *   |     |       |       |
 | d. panapa |     | *   |       |       |
+{:.ottab}
 
 ## Comparative Tableaux
 
