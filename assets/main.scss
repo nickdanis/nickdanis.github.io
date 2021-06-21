@@ -515,13 +515,13 @@ table {
   }
 }
 
-body {
-  /* Set "my-sec-counter" to 0 */
-  counter-reset: cand;
-}
+// body {
+//   /* Set "my-sec-counter" to 0 */
+//   counter-reset: cand;
+// }
 
 .ottab {
-  table {
+  tbody {
     counter-reset: cand;
   }
   td {

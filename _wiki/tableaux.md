@@ -7,10 +7,10 @@ title: Tableaux
 
 | /panpa/   | Max | Dep | Agree | Ident |
 |-----------|-----|-----|-------|-------|
-| a. panpa  |     |     | *     |       |
-| b. pampa  |     |     |       | *     |
-| c. papa   | *   |     |       |       |
-| d. panapa |     | *   |       |       |
+| panpa  |     |     | *     |       |
+| pampa  |     |     |       | *     |
+| papa   | *   |     |       |       |
+| panapa |     | *   |       |       |
 {:.ottab}
 
 ## Comparative Tableaux
