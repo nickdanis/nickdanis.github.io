@@ -11,7 +11,7 @@ layout: default
   <div class="post-content">
     <div class="wiki-toc-heading">
         <p>Contents</p>
-        {% include toc.html html=content sanitize=true class="wiki-toc" submenu_class="wiki-toc-sub" h_min=2 h_max=3 %}        
+        {% include toc.html html=content sanitize=true class="wiki-toc" submenu_class="wiki-toc-sub" ordered=true h_min=2 h_max=3 %}        
     </div>
     {{ content }}
   </div>
