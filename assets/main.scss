@@ -521,6 +521,7 @@ table {
 // }
 
 table.ottab {
+  margin-left: 1rem;
   width: auto;
   tbody {
     counter-reset: cand;
@@ -530,10 +531,6 @@ table.ottab {
       text-align: center;
     }
   }
-}
-
-table.ottab::before {
-  content: "caption";
 }
 
 table.vt {
