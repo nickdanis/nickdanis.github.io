@@ -530,6 +530,9 @@ table.ottab {
       text-align: center;
     }
   }
+}
+
+table.vt {
   td:nth-child(1) {
     border-right: none !important;
   }
@@ -538,7 +541,6 @@ table.ottab {
     &::before {
       counter-increment: cand;
       content: counter(cand, lower-alpha)". ";
-  }
-
+    }
   }
 }
