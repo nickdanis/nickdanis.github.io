@@ -16,7 +16,7 @@ title: Tableaux
 |   | /panpa/   | Max | Dep | Agree | Ident |
 |---|-----------|-----|-----|-------|-------|
 |   | panpa  |     |     | *     |       |
-|☞  | pampa  |     |     |       | *     |
+|&#9758;  | pampa  |     |     |       | *     |
 |   | papa   | *   |     |       |       |
 |   | panapa |     | *   |       |       |
 {:.ottab .vt}
@@ -29,4 +29,4 @@ title: Tableaux
 | pampa  |     |     |       | *     |
 | papa   | W   |     |       | L      |
 | panapa |     | W   |       | L      |
-{:.ottab}
+{:.ottab .ct}
