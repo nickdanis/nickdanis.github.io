@@ -514,3 +514,11 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+.ottab {
+  tr {
+    %:nth-child(n+1) {
+      text-align: center;
+    }
+  }
+}
