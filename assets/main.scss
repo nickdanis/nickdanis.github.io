@@ -533,6 +533,12 @@ table.ottab {
 }
 
 table.vt {
+  th:nth-child(1) {
+    border-right: none !important;
+  }
+  th:nth-child(2) {
+    border-left: none !important;
+  }
   td:nth-child(1) {
     border-right: none !important;
   }
