@@ -517,7 +517,7 @@ table {
 
 .ottab {
   td {
-    &:nth-child(n+1) {
+    &:nth-child(n+2) {
       text-align: center;
       background-color: aqua;
     }
