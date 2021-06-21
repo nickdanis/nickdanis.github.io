@@ -520,7 +520,8 @@ table {
 //   counter-reset: cand;
 // }
 
-.ottab {
+table.ottab {
+  width: auto;
   tbody {
     counter-reset: cand;
   }
