@@ -552,9 +552,12 @@ table.vt {
 }
 
 table.ct {
+  td:nth-child(2) {
+    text-align: center;
+  }
   tr:nth-child(1) {
     td:nth-child(1)::before {
-      content: "W: "
+      content: ""
     }
   }
   tr:nth-child(n+2) {
