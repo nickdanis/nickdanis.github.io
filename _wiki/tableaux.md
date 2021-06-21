@@ -8,7 +8,7 @@ title: Tableaux
 | /panpa/   | Max | Dep | Agree | Ident |
 |-----------|-----|-----|-------|-------|
 | panpa  |     |     | *     |       |
-| pampa  |     |     |       | *     |
+| pampa{:.winner}  |     |     |       | *     |
 | papa   | *   |     |       |       |
 | panapa |     | *   |       |       |
 {:.ottab}
