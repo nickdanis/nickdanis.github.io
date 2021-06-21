@@ -13,6 +13,14 @@ title: Tableaux
 | panapa |     | *   |       |       |
 {:.ottab}
 
+|   | /panpa/   | Max | Dep | Agree | Ident |
+|---|-----------|-----|-----|-------|-------|
+|   | panpa  |     |     | *     |       |
+|☞  | pampa  |     |     |       | *     |
+|   | papa   | *   |     |       |       |
+|   | panapa |     | *   |       |       |
+{:.ottab}
+
 ## Comparative Tableaux
 
 | /panpa/   | Max | Dep | Agree | Ident |
