@@ -5,14 +5,6 @@ title: Tableaux
 
 ## Violation Tableaux
 
-| /panpa/   | Max | Dep | Agree | Ident |
-|-----------|-----|-----|-------|-------|
-| panpa  |     |     | *     |       |
-| ☞ pampa  |     |     |       | *     |
-| papa   | *   |     |       |       |
-| panapa |     | *   |       |       |
-{:.ottab}
-
 |   | /panpa/   | Max | Dep | Agree | Ident |
 |---|-----------|-----|-----|-------|-------|
 |   | panpa  |     |     | *     |       |
