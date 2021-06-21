@@ -19,7 +19,7 @@ title: Tableaux
 |☞  | pampa  |     |     |       | *     |
 |   | papa   | *   |     |       |       |
 |   | panapa |     | *   |       |       |
-{:.ottab}
+{:.ottab .vt}
 
 ## Comparative Tableaux
 
