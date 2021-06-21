@@ -568,7 +568,11 @@ table.ct {
   }
 }
 
+.wiki-toc-heading {
+  background-color: lightgray;
+}
+
 p.wiki-toc-heading {
   margin-bottom: 0;
-  background-color: lightgray;
+  font-weight: bold;
 }

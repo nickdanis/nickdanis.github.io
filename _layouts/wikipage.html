@@ -9,16 +9,10 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
   <div class="post-content">
-
-
-  <p class="wiki-toc-heading">
-    <strong>Contents</strong>
-  </p>
-      {% include toc.html html=content sanitize=true class="wiki-toc" submenu_class="wiki-toc-sub" h_min=2 h_max=3 %}
-
-
-
-  
+    <div class="wiki-toc-heading">
+        <p>Contents</p>
+        {% include toc.html html=content sanitize=true class="wiki-toc" submenu_class="wiki-toc-sub" h_min=2 h_max=3 %}        
+    </div>
     {{ content }}
   </div>
 
