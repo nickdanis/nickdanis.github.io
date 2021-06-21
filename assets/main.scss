@@ -515,13 +515,22 @@ table {
   }
 }
 
+body {
+  /* Set "my-sec-counter" to 0 */
+  counter-reset: cand;
+}
+
 .ottab {
+  table {
+    counter-reset: cand;
+  }
   td {
     &:nth-child(n+2) {
       text-align: center;
     }
   }
   td:nth-child(1)::before {
-    content: "a. ";
+    counter-increment: cand;
+    content: counter(cand)". ";
   }
 }
