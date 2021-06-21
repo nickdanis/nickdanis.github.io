@@ -25,8 +25,8 @@ title: Tableaux
 
 | /panpa/   | Max | Dep | Agree | Ident |
 |-----------|-----|-----|-------|-------|
-| panpa  |     |     | W     | L      |
 | pampa  |     |     |       | *     |
+| panpa  |     |     | W     | L      |
 | papa   | W   |     |       | L      |
 | panapa |     | W   |       | L      |
 {:.ottab .ct}

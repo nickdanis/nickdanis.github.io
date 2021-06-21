@@ -552,5 +552,8 @@ table.vt {
 }
 
 table.ct {
-  
+  td:nth-child(1)::before {
+    counter-increment: cand;
+    content: counter(cand, lower-alpha)". ";
+  }
 }
