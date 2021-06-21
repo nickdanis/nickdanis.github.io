@@ -526,12 +526,13 @@ table.ottab {
     counter-reset: cand;
   }
   td {
-    &:nth-child(n+2) {
+    &:nth-child(n+3) {
       text-align: center;
     }
   }
-  td:nth-child(1)::before {
+  td:nth-child(2)::before {
     counter-increment: cand;
     content: counter(cand, lower-alpha)". ";
+    border-left: none;
   }
 }
