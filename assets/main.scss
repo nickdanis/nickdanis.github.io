@@ -532,6 +532,10 @@ table.ottab {
   }
 }
 
+table.ottab::before {
+  content: "caption";
+}
+
 table.vt {
   th:nth-child(1) {
     border-right: none !important;
