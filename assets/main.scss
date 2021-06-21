@@ -552,8 +552,10 @@ table.vt {
 }
 
 table.ct {
-  td:nth-child(n+2)::before {
-    counter-increment: cand;
-    content: counter(cand, lower-alpha)". ";
+  tr:nth-child(n+2) {
+    td:nth-child(1)::before {
+      counter-increment: cand;
+      content: counter(cand, lower-alpha)". ";
+    }
   }
 }
