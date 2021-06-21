@@ -552,10 +552,15 @@ table.vt {
 }
 
 table.ct {
-  tr:nth-child(n+3) {
+  tr:nth-child(1) {
+    td:nth-child(1)::before {
+      content: "W: "
+    }
+  }
+  tr:nth-child(n+2) {
     td:nth-child(1)::before {
       counter-increment: cand;
-      content: counter(cand, lower-alpha)". ";
+      content: counter(cand, lower-alpha)". ~";
     }
   }
 }
