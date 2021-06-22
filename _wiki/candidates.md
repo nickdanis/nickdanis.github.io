@@ -7,6 +7,8 @@ title: Candidates
 
 in progress
 
+{% include graphs/cands.svg %}
+
 ## Output
 
 ## Correspondence
