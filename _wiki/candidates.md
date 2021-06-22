@@ -12,7 +12,7 @@ Additionally, it us usually assumed that there is no prosodic structure in the i
 
 ## Output
 
-The output candidates are a direct result of a given input and the definition of GEN. Every combination of processes allowed by GEN should be present in some output candidate, for the most part. Often, this results in an infinite output set: every possible kind of epenthesis simply creates more and more candidates. However, many of the resulting candidates will be [harmonically bounded]({% link _wiki/harmonic_bounding.md %}) and do not need to be considered further. 
+The output candidates are a direct result of a given input and the definition of GEN. Every combination of processes allowed by GEN should be present in some output candidate, for the most part. Often, this results in an infinite output set: every possible kind of epenthesis simply creates more and more candidates. However, many of the resulting candidates will be [harmonically bounded]({% link _wiki/harmonic-bounding.md %}) and do not need to be considered further. 
 
 The infinite candidate set is often misconstrued by saying "anything can be a candidate" in OT; this is also incorrect. The set may be infinite, but that doesn't mean every possible phonological form (or anything non-phonological) is a candidate (my cat is not a candidate); only those forms as allowed by GEN. 
 
