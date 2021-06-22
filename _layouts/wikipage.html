@@ -25,8 +25,8 @@ layout: default
         {% endif %}
       {% endfor %}
       
-      {% assign prev_index = item_index | plus: 1 %}
-      {% assign next_index = item_index | minus: 1 %}
+      {% assign prev_index = item_index | minus: 1 %}
+      {% assign next_index = item_index | plus: 1 %}
       
       {% for item in items %}
         {% if forloop.index == prev_index %}
