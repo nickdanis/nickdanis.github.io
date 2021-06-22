@@ -26,7 +26,7 @@ collections:
     permalink: /:collection/:name
   wiki:
     output: true
-    permalink: /:collection/:name
+    # permalink: /:collection/:name
 
 
 fa2021:
