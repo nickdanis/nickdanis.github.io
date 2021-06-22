@@ -10,7 +10,7 @@ This wiki is intended as a reference/textbook specifically for WUSTL courses L44
 ## Pages
 
 <ul class="wiki-list">
-{% assign items = site.wiki | sort: 'chapter' | reverse %}
+{% assign items = site.wiki | sort: 'chapter' %}
 {% for page in items %}
 <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endfor %}
