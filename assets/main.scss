@@ -111,15 +111,18 @@ html {
   padding: 0;
 }
 
-svg {
-  height: 20px;
-  width: 20px;
-  fill:grey;
+.social-media-list {
+  svg {
+    height: 20px;
+    width: 20px;
+    fill:grey;
+  }
+  
+  svg:hover {
+    fill:black;
+  }
 }
 
-svg:hover {
-  fill:black;
-}
 
 .footer-col-wrapper {
   display: flex;
