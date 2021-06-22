@@ -1,6 +1,7 @@
 ---
 layout: wikipage
 title: Optimality Theory overview
+chapter: 1
 ---
 
 Optimality Theory is a constraint-based, parallel grammatical framework. This contrasts with the rule-based serialism of SPE and Hayes. The architecture of OT consists of three primary components: GEN, CON, and EVAL.

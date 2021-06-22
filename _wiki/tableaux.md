@@ -1,6 +1,7 @@
 ---
 layout: wikipage
 title: Tableaux
+chapter: 3
 ---
 
 ## Violation Tableaux
