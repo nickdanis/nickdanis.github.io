@@ -21,12 +21,23 @@ This guide is intended as a reference/textbook for Optimality Theory specificall
 {% endfor %}
 </ul>
 
-### Advanced topics
+### Advanced theory
 
 <ul class="wiki-list">
 {% assign items = site.wiki | sort: 'chapter' %}
 {% for page in items %}
 {% if page.level == 'advanced' %}
+<li><a href="{{ page.url }}">{{page.chapter}}. {{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+### Domains
+
+<ul class="wiki-list">
+{% assign items = site.wiki | sort: 'chapter' %}
+{% for page in items %}
+{% if page.level == 'domains' %}
 <li><a href="{{ page.url }}">{{page.chapter}}. {{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
