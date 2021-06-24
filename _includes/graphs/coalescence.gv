@@ -1,0 +1,22 @@
+graph G {
+  label = "coalescence";
+  node [shape=record,height=.25];
+  edge [style=dashed];
+  subgraph cluster_in {
+    label = "input: /apno/";
+    color=white;
+    input [label="<a>a|<p>p|<n>n|<o>o"];
+  }
+  subgraph cluster_out {
+    label = "output: [amo]";
+    labelloc=b;
+    color=white;
+    output [label="<a>a|<m>m|<o>o"];
+  }
+
+  input:a -- output:a;
+  input:p -- output:m;
+  input:n -- output:m;
+  input:o -- output:o;
+
+}

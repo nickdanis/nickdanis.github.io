@@ -1,0 +1,19 @@
+graph G {
+  label = "true metathesis";
+  node [shape=record,height=.25];
+  edge [style=dashed];
+  subgraph cluster_in {
+    label = "input: /tar/";
+    color=white;
+    input [label="<t>t|<a>a|<r>r"];
+  }
+  subgraph cluster_out {
+    label = "output: [tra]";
+    labelloc=b;
+    color=white;
+    output [label="<t>t|<r>r|<a>a"];
+  }
+  input:t -- output:t;
+  input:a -- output:a;
+  input:r -- output:r;
+}

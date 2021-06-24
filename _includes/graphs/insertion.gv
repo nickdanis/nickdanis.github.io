@@ -1,0 +1,18 @@
+graph G {
+  label = "insertion";
+  node [shape=record,height=.25];
+  edge [style=dashed];
+  subgraph cluster_in {
+    label = "input: /a/";
+    color=white;
+    input [label="<a>a",width=0.3];
+  }
+  subgraph cluster_out {
+    label = "output: [ta]";
+    labelloc=b;
+    color=white;
+    output [label="<t>t|<a>a",width=0.5];
+  }
+  
+  input:a -- output:a;
+}

@@ -10,12 +10,12 @@ Much of the claims and argumentation for OT are demonstrated using tableaux (sg.
 
 A violation tableau shows the [constraints]({% link _wiki/constraints.md %}) as column headings and one [candidate]({% link _wiki/candidates.md %}) per row. The violation marks incurred by each candidate are shown in the corresponding cells either as a number of asterisks (e.g. ***) or as a numberal (e.g. 3). 
 
-|   | /panpa/   | Max | Dep | Agree | Ident |
-|---|-----------|-----|-----|-------|-------|
-|   | panpa  |     |     | *     |       |
-|&#9758;  | pampa  |     |     |       | *     |
-|   | papa   | *   |     |       |       |
-|   | panapa |     | *   |       |       |
+|         | /panpa/ | Max | Dep | Agree | Ident |
+| ------- | ------- | --- | --- | ----- | ----- |
+|         | panpa   |     |     | *     |       |
+| &#9758; | pampa   |     |     |       | *     |
+|         | papa    | *   |     |       |       |
+|         | panapa  |     | *   |       |       |
 {:.ottab .vt}
 
 The pointing finger shows the winning candidate. This could be in any particular row. Usually, the columns are ordered left-to-right in a way that reflects their intended [ranking]({% link _wiki/rankings.md %}) for that language; however, VTs are not the best vehicle for conveying ranking information. **Any arguments about ranking should be made with CTs**, described in the next section. 
@@ -24,10 +24,10 @@ That being said, there are a number of other conventions for VTs relating to ran
 
 Additionally, an exclamation mark inside a VT indicates a *fatal violation*, or a particular violation mark that crucially separates two candidates. 
 
-|   | /ta/ | *a |
-|---|------|----|
-|&#9758;   | ta   | \*  |
-|   | taa  | \*\*! |
+|         | /ta/ | *a    |
+| ------- | ---- | ----- |
+| &#9758; | ta   | \*    |
+|         | taa  | \*\*! |
 {:.ottab .vt}
 
 In this dummy VT, both the [ta] candidate and the [taa] candidate incur one violation of \*a, so these violation marks effectively cancel out. However, [taa] has a second violation while [ta] does not. The exclamation mark is placed right after this violation to show that it is *fatal*, or is the death knell for this candidate. It is not uncommon to also see all cells to the right of an exclamation mark shaded gray to indicate that this candidate is no longer a possible optimum.
@@ -40,22 +40,22 @@ Instead of violation counts, the crucial information in a CT is now: does a part
 
 Any VT with clear violation marks and intended winner can be turned into a CT in a few steps. The CT version of the VT from the previous section is shown below.
 
-| /panpa/   | Max | Dep | Agree | Ident |
-|-----------|-----|-----|-------|-------|
-| pampa  |     |     |       | *     |
-| panpa  |     |     | W     | L      |
-| papa   | W   |     |       | L      |
-| panapa |     | W   |       | L      |
+| /panpa/ | Max | Dep | Agree | Ident |
+| ------- | --- | --- | ----- | ----- |
+| pampa   |     |     |       | *     |
+| panpa   |     |     | W     | L     |
+| papa    | W   |     |       | L     |
+| panapa  |     | W   |       | L     |
 {:.ottab .ct}
 
 Notice that the majority of information conveyed are just cells with either a W or an L. In the first column, the constraint Max is shown with a W in the row for [papa]. The candidate [papa] contains one instance of deletion, so when this is compared with the winner [pampa], which has 0 instances of deletion, Max prefers the winner, and thus a W is marked. No other candidates contain instances of deletion, so Max has no preference with respect to these. 
 
 In the above tableau, the winner is shown on the first row, with violation marks still present. This is only for convenience and can be ommitted. A pure CT contains only Ws and Ls. However, in this representation, it might not be clear exactly *how* violations are assigned. A "hybrid" tableau style is popular that includes both the Ws and Ls of CTs, and the violation marks of VTs.
 
-| /panpa/   | Max | Dep | Agree | Ident |
-|-----------|-----|-----|-------|-------|
-| pampa  |     |     |       | \*     |
-| panpa  |     |     | W   \*  | L      |
-| papa   | W  \* |     |       | L      |
-| panapa |     | W \*  |       | L      |
+| /panpa/ | Max   | Dep  | Agree  | Ident |
+| ------- | ----- | ---- | ------ | ----- |
+| pampa   |       |      |        | \*    |
+| panpa   |       |      | W   \* | L     |
+| papa    | W  \* |      |        | L     |
+| panapa  |       | W \* |        | L     |
 {:.ottab .ct}
