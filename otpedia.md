@@ -24,11 +24,11 @@ This is a work in progress. Errors? Omissions? Comments? Contact me 👇.
 
 ### Advanced topics
 
-<!-- <ul class="wiki-list">
+<ul class="wiki-list">
 {% assign items = site.wiki | sort: 'chapter' %}
 {% for page in items %}
 {% if page.level == 'advanced' %}
 <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-</ul> -->
+</ul>
