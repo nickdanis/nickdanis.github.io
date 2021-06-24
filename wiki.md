@@ -14,7 +14,7 @@ This is a work in progress. Errors? Omissions? Comments? Contact me 👇.
 <ul class="wiki-list">
 {% assign items = site.wiki | sort: 'chapter' %}
 {% for page in items %}
-{% if page.level = 'core' %}
+{% if page.level == 'core' %}
 <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
