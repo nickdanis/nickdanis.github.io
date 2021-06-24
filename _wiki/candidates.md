@@ -1,7 +1,7 @@
 ---
 layout: wikipage
 title: Candidates
-level: core
+level: basic
 chapter: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: wikipage
-title: Optimality Theory overview
-level: core
+title: Overview
+level: basic
 chapter: 1
 ---
 

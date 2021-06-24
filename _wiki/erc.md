@@ -1,6 +1,6 @@
 ---
 layout: wikipage
 title: Elementary Ranking Condition (ERC)
-level: advanced
+level: core
 chapter: 6
 ---

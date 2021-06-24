@@ -1,7 +1,7 @@
 ---
 layout: wikipage
 title: Constraints
-level: core
+level: basic
 chapter: 3
 ---
 

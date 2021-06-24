@@ -1,6 +1,6 @@
 ---
 layout: wikipage
 title: Rankings
-level: core
+level: basic
 chapter: 5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: wikipage
 title: Tableaux
-level: core
+level: basic
 chapter: 4
 ---
 

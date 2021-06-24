@@ -1,6 +1,6 @@
 ---
 layout: wikipage
 title: Factoral typologies
-level: advanced
+level: core
 chapter: 10
 ---

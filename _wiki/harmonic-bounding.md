@@ -1,6 +1,6 @@
 ---
 layout: wikipage
 title: Harmonic bounding
-level: advanced
+level: core
 chapter: 7
 ---
