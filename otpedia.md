@@ -11,7 +11,7 @@ This is a work in progress. Errors? Omissions? Comments? Contact me 👇.
 
 ## Contents
 
-### Core concepts
+<!-- ### Core concepts
 
 <ul class="wiki-list">
 {% assign items = site.wiki | sort: 'chapter' %}
@@ -31,4 +31,4 @@ This is a work in progress. Errors? Omissions? Comments? Contact me 👇.
 <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-</ul>
+</ul> -->
