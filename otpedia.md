@@ -13,22 +13,22 @@ This is a work in progress. Errors? Omissions? Comments? Contact me 👇.
 
 ### Core concepts
 
-<ol class="wiki-list">
+<ul class="wiki-list">
 {% assign items = site.wiki | sort: 'chapter' %}
 {% for page in items %}
 {% if page.level == 'core' %}
 <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-</ol>
+</ul>
 
 ### Advanced topics
 
-<ol class="wiki-list">
+<ul class="wiki-list">
 {% assign items = site.wiki | sort: 'chapter' %}
 {% for page in items %}
 {% if page.level == 'advanced' %}
 <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-</ol>
+</ul>
