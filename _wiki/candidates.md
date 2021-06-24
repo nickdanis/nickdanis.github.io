@@ -2,7 +2,7 @@
 layout: wikipage
 title: Candidates
 level: core
-chapter: 20
+chapter: 2
 ---
 
 ## Input

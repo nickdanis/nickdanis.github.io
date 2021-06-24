@@ -11,13 +11,13 @@ This is a work in progress. Errors? Omissions? Comments? Contact me 👇.
 
 ## Contents
 
-<!-- ### Core concepts
+### Core concepts
 
 <ul class="wiki-list">
 {% assign items = site.wiki | sort: 'chapter' %}
 {% for page in items %}
 {% if page.level == 'core' %}
-<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+<li><a href="{{ page.url }}">{{page.chapter}}. {{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
@@ -28,7 +28,7 @@ This is a work in progress. Errors? Omissions? Comments? Contact me 👇.
 {% assign items = site.wiki | sort: 'chapter' %}
 {% for page in items %}
 {% if page.level == 'advanced' %}
-<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+<li><a href="{{ page.url }}">{{page.chapter}}. {{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
-</ul> -->
+</ul>

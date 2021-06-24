@@ -2,5 +2,5 @@
 layout: wikipage
 title: Rankings
 level: core
-chapter: 50
+chapter: 5
 ---

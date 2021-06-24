@@ -2,7 +2,7 @@
 layout: wikipage
 title: Tableaux
 level: core
-chapter: 40
+chapter: 4
 ---
 
 Much of the claims and argumentation for OT are demonstrated using tableaux (sg. tableau). A properly formatted tableau gives information both on the candidates and constraints, as well as some language-specific ranking information. There are two general types of tableaux, each eith their own purposes: violation tableaux (VTs) and comparative tableaux (CTs). 
