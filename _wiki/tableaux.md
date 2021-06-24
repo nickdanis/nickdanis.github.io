@@ -1,6 +1,7 @@
 ---
 layout: wikipage
 title: Tableaux
+level: core
 chapter: 40
 ---
 

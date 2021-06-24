@@ -1,6 +1,7 @@
 ---
 layout: wikipage
 title: Optimality Theory overview
+level: core
 chapter: 10
 ---
 
