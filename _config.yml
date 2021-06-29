@@ -25,9 +25,8 @@ collections:
     output: true
     permalink: /:collection/:name
   wiki:
-    output: true
+    output: false
     sort-by: chapter
-    permalink: /otpedia/:name
 
 
 fa2021:
