@@ -24,9 +24,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:name
-  wiki:
-    output: false
-    sort-by: chapter
+  # wiki:
+  #   output: false
+  #   sort-by: chapter
 
 
 fa2021:
