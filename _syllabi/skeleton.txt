@@ -3,7 +3,9 @@
 
 ## Course Info
 
-| Course Number | L44 {{ page.title | slice: 0, 8 | strip }}  |
+{% capture tab_title %}{{ page.title | slice: 0, 8 | strip }}{% endcapture %}
+
+| Course Number | L44  {{tab_title}}                          |
 |---------------|---------------------------------------------|
 | Semester      | {{ page.semester }}                         |
 | Time          | {{ page.time }}                             |
