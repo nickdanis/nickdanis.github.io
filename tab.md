@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Research
+layout: tab
+title: Tab
 ---
 
-<meta name="robots" content="noindex">
 
-test
+
+test page
