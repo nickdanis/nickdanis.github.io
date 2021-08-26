@@ -3,16 +3,16 @@
 
 ## Course Info
 
-{% capture tab_title %}{{ page.title | slice: 0, 8 | strip }}{% endcapture %}
+{% assign syltitle = page.title | slice: 0, 8 | strip %}
 
-| Course Number | L44  {{tab_title}}                          |
+| Course Number | L44 {{ syltitle }}                          |
 |---------------|---------------------------------------------|
 | Semester      | {{ page.semester }}                         |
 | Time          | {{ page.time }}                             |
 | Location      | {{ page.location }}                         |
 | Office        | {{ site.fa2021.office-location }}           |
 | Office Hours  | {{ site.fa2021.office-hours }}              | 
-| Homepage      | [Canvas]({{ page.canvas-url }})             | 
+| Homepage      | {{ page.canvas-url }}                       | 
 
 ## Goals
 
