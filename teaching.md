@@ -13,7 +13,7 @@ I am on family leave for the Spring 2022 semester. See you in the fall. 👶
     {%- endif %}
 {% endfor %}
 
-Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}.
+<!-- Office hours: {{ site.fa2021.office-hours }} @ {{ site.fa2021.office-location }}. -->
 
 
 

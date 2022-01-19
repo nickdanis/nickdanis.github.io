@@ -2,6 +2,7 @@
 layout: post
 title: How to make a vowel chart using matplotlib and python
 tags: phonetics phonology tutorial python
+toc: true
 thumbnail: /assets/posts/output_14_0.png
 published: true
 ---
