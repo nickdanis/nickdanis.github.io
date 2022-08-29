@@ -12,7 +12,7 @@
 | Location      | {{ page.location }}                         |
 | Office        | {{ site.fa2021.office-location }}           |
 | Office Hours  | {{ site.fa2021.office-hours }}              | 
-| Homepage      | {{ page.canvas-url }}                       | 
+| Homepage      | <{{ page.canvas-url }}>                       | 
 
 ## Goals
 
