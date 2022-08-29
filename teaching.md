@@ -11,7 +11,7 @@ title: Teaching
     {%- endif %}
 {% endfor %}
 
-Office hours: {{ site.current_semester.office-hours }} @ {{ site.current_semester.office-location }}.
+Office hours: {{ site.office-hours }} @ {{ site.office-location }}.
 
 
 
