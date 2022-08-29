@@ -21,7 +21,7 @@ def build_header(course, semester):
     header += f"canvas-url: \n"
     header += f"published: false\n"
     header += f"last-updated: \n"
-    header += f"---\n\n"
+    header += f"---\n\n"  
     return header
 
 semester, file_semester, year = get_semester()

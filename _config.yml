@@ -14,7 +14,9 @@ address-2: One Brookings Drive
 address-3: St. Louis, MO 63130 
 
 # teaching info
-current_semester: Spring 2022
+current_semester: Fall 2022
+  office-hours: TBD
+  office-location: January 206
 
 collections:
   syllabi:
