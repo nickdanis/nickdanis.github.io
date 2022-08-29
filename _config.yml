@@ -18,6 +18,7 @@ current_semester: Fall 2022
   office-hours: TBD
   office-location: January 206
 
+
 collections:
   syllabi:
     output: true
@@ -29,11 +30,6 @@ collections:
   # wiki:
   #   output: false
   #   sort-by: chapter
-
-
-fa2021:
-  office-hours: W 1-2pm
-  office-location: January 206 / Zoom
 
 
 # site info
