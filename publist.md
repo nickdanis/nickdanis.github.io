@@ -25,6 +25,7 @@
 
 ### Oral
 
+* Danis, Nick. 2022. [Natural class-preserving transductions among phonological representations](..assets/slides/danis2022-stonybrook-natclass.pdf). Workshop on Model-Theoretic Representations in Phonology. Stony Brook University, September 22-24, 2022. [[supplemental material](_research/ngbaka.md)]
 * Danis, Nick and Adam Jardine. 2019. Q-Theory Representations are logically equivalent to Autosegmental Representations. SCiL, co-meeting with the LSA 2019. 
 * Danis, Nick. 2016. Major place harmony and the (reduced) role of representation: Evidence from Ngbaka. AMP 2016. USC. October 21-23, 2016.
 * Danis, Nick. 2016. Cross-category vowel-consonant interactions in Aghem and Vietnamese. Presented at the University of Chicago Phonology Group, May 13, 2016.
