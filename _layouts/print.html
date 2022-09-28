@@ -17,7 +17,8 @@
           {% if page.collection == 'syllabi' and page.pdf == true %}
             <a href="{{ site.baseurl }}/assets/pdfsyllabi/{{ page.path | replace: '_syllabi/','' | replace: '.md','.pdf'}}">Save as PDF</a>
           {% elsif page.title == 'CV' %} 
-            <a href="https://www.nickdanis.com/assets/pdfs/danis-cv.pdf">Save as PDF</a>
+            <!-- <a href="https://www.nickdanis.com/assets/pdfs/danis-cv.pdf">Save as PDF</a> -->
+            <a href="#" onClick="window.print();return false;">Print to PDF</a>
           {% else %}
             <a href="#" onClick="window.print();return false;">Print to PDF</a>
           {% endif %}
