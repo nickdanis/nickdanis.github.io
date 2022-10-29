@@ -23,6 +23,10 @@
 
 ## Presentations
 
+### Invited
+
+* Danis, Nick. 2022. [Comparing phonological representations](assets/slides/danis2022-comparing-phonological-msu.pdf). Invited keynote, [Graduate Linguistics Expo at Michigan State (GLEAMS) 2022](https://msulinguists.weebly.com/gleams-2022-325625.html). Michigan State University, October 28-29, 2022.
+
 ### Oral
 
 * Danis, Nick. 2022. [Natural class-preserving transductions among phonological representations](../assets/slides/danis2022-stonybrook-natclass.pdf). Workshop on Model-Theoretic Representations in Phonology. Stony Brook University, September 22-24, 2022. [[supplemental material](_research/ngbaka.md)]
