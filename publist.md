@@ -25,6 +25,8 @@
 
 ### Invited
 
+
+* Danis, Nick. 2023. [Comparing representations:Towards a strong generative capacity for phonology](assets/slides/danis2023-comparing-phonological-harvard.pdf). Invited colloquium, GSAS Circles Talk, Harvard University, February 17, 2023.
 * Danis, Nick. 2022. [Comparing phonological representations](assets/slides/danis2022-comparing-phonological-msu.pdf). Invited keynote, [Graduate Linguistics Expo at Michigan State (GLEAMS) 2022](https://msulinguists.weebly.com/gleams-2022-325625.html). Michigan State University, October 28-29, 2022.
 
 ### Oral
