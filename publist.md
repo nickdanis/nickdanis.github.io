@@ -26,8 +26,8 @@
 ### Invited
 
 
-* Danis, Nick. 2023. [Comparing representations:Towards a strong generative capacity for phonology](assets/slides/danis2023-comparing-phonological-harvard.pdf). Invited colloquium, GSAS Circles Talk, Harvard University, February 17, 2023.
-* Danis, Nick. 2022. [Comparing phonological representations](assets/slides/danis2022-comparing-phonological-msu.pdf). Invited keynote, [Graduate Linguistics Expo at Michigan State (GLEAMS) 2022](https://msulinguists.weebly.com/gleams-2022-325625.html). Michigan State University, October 28-29, 2022.
+* Danis, Nick. 2023. [Comparing representations:Towards a strong generative capacity for phonology](../assets/slides/danis2023-comparing-phonological-harvard.pdf). Invited colloquium, GSAS Circles Talk, Harvard University, February 17, 2023.
+* Danis, Nick. 2022. [Comparing phonological representations](../assets/slides/danis2022-comparing-phonological-msu.pdf). Invited keynote, [Graduate Linguistics Expo at Michigan State (GLEAMS) 2022](https://msulinguists.weebly.com/gleams-2022-325625.html). Michigan State University, October 28-29, 2022.
 
 ### Oral
 
@@ -42,11 +42,11 @@
 
 ### Poster
 
-* Danis, Nick. 2020. [Phonology needs geometry: Implicit axioms in segmental representation](/assets/posters/danis2020-lsa-poster.pdf). Poster presented at the 2020 Annual Meeting of the LSA. 
-* Danis, Nick. [Cross-category agreement as reference to general dominance](/assets/posters/danis2018-amp-poster.pdf). AMP 2018, UC San Diego. Oct 5-7, 2018. Poster. [[conf. link](http://phonology.ucsd.edu/wp-content/uploads/sites/54/2018/10/Danis-poster.pdf)]
-* Danis, Nick, Jeffrey Heinz and Adam Jardine. 2018. [How constraints refer to nothing: The correct notion of substructure for phonology](/assets/posters/danis-et-al2018-lsa-poster.pdf). Poster that was present at the 2018 LSA. 
+* Danis, Nick. 2020. [Phonology needs geometry: Implicit axioms in segmental representation](../assets/posters/danis2020-lsa-poster.pdf). Poster presented at the 2020 Annual Meeting of the LSA. 
+* Danis, Nick. [Cross-category agreement as reference to general dominance](../assets/posters/danis2018-amp-poster.pdf). AMP 2018, UC San Diego. Oct 5-7, 2018. Poster. [[conf. link](http://phonology.ucsd.edu/wp-content/uploads/sites/54/2018/10/Danis-poster.pdf)]
+* Danis, Nick, Jeffrey Heinz and Adam Jardine. 2018. [How constraints refer to nothing: The correct notion of substructure for phonology](../assets/posters/danis-et-al2018-lsa-poster.pdf). Poster that was present at the 2018 LSA. 
 * Danis, Nick. 2018. A theory of cross-category agreement and new evidence for unified place features. Poster that never made it to the 2018 LSA due to inclement weather. See the AMP 2018 version.
-* Danis, Nick. 2017. [Phonetics of Yoruba vowel deletion: durational evidence for hidden structure](/assets/posters/danis2017-acal48-poster.pdf). ACAL 48, Indiana University. March 30-April 2, 2017. Poster.
+* Danis, Nick. 2017. [Phonetics of Yoruba vowel deletion: durational evidence for hidden structure](../assets/posters/danis2017-acal48-poster.pdf). ACAL 48, Indiana University. March 30-April 2, 2017. Poster.
 
 ## Student Work
 
