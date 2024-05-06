@@ -25,8 +25,8 @@
 
 ### Invited
 
-* Danis, Nick. 2024. [Comparing representations:Towards a strong generative capacity for phonology](../assets/slides/danis2024-comparing-phonological-ruling.pdf). Invited speaker, RULing 2024, Rutgers University, May 3, 2024. [[python supplement](https://github.com/nickdanis/autosegx/blob/master/danis-ruling2024.ipynb)]
-* Danis, Nick. 2023. [Comparing representations:Towards a strong generative capacity for phonology](../assets/slides/danis2023-comparing-phonological-harvard.pdf). Invited colloquium, GSAS Circles Talk, Harvard University, February 17, 2023.
+* Danis, Nick. 2024. [Comparing representations: Towards a strong generative capacity for phonology](../assets/slides/danis2024-comparing-phonological-ruling.pdf). Invited speaker, RULing 2024, Rutgers University, May 3, 2024. [[python supplement](https://github.com/nickdanis/autosegx/blob/master/danis-ruling2024.ipynb)]
+* Danis, Nick. 2023. [Comparing representations: Towards a strong generative capacity for phonology](../assets/slides/danis2023-comparing-phonological-harvard.pdf). Invited colloquium, GSAS Circles Talk, Harvard University, February 17, 2023.
 * Danis, Nick. 2022. [Comparing phonological representations](../assets/slides/danis2022-comparing-phonological-msu.pdf). Invited keynote, [Graduate Linguistics Expo at Michigan State (GLEAMS) 2022](https://msulinguists.weebly.com/gleams-2022-325625.html). Michigan State University, October 28-29, 2022.
 
 ### Oral
