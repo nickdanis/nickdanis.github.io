@@ -16,6 +16,9 @@ layout: print
         <header>
           <h1>{{ page.title | escape }}</h1>
           <p>Dr. {{ site.author.name }}, <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+            {% if page.coteach == true %}
+              <p>Dr. {{ page.coprof }}, <a href="mailto:{{ page.coemail }}">{{ page.coemail }}</a>
+            {% endif $}
             <br> <em>{{ site.description }}</em>
             <a class="syl-footer" href="{{site.url}}{{page.url}}"><br>{{site.url}}{{page.url}}</a></p>
         </header>
