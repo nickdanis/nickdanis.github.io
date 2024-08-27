@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: CV
-last-updated: June 23, 2022
+last-updated: August 27, 2024
 ---
 
 ## Research interests
@@ -33,6 +33,14 @@ last-updated: June 23, 2022
 ## Teaching
 
 ### Washington University in St. Louis
+
+{% assign wucourses = "" %}
+{% for item in site.syllabi %}
+  {{ wucourses | append: item.title }}
+{% endfor %}
+
+{{ wucourses }}
+
 
 | Course | Name | Semesters |
 |---|---|---|
