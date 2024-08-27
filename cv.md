@@ -34,8 +34,6 @@ last-updated: August 27, 2024
 
 ### Washington University in St. Louis
 
-truncate
-
 {% assign wucourses = "" %}
 {% for item in site.syllabi %}
   {% assign wucourses = wucourses | append: item.title | append: ", " %}
@@ -45,17 +43,17 @@ truncate
 
 | Course | Name | Semesters |
 |---|---|---|{% for item in wulist %}
-| {% assign num = item | truncatewords: 2,"" %}{{ num }} | {{ item | replace: num,"" }} | {% assign sem = site.syllabi | where: "title",item %} {% for s in sem %} {{ s.semester }} {% endfor %} |{% endfor %}
+| {% assign num = item | truncatewords: 2,"" %}{{ num }} | {{ item | replace: num,"" }} | {% assign sem = site.syllabi | where: "title",item %} {% assign sems = "" %}{% for s in sem %} {% sems = sems | append: s | append ", " %} {% endfor %} {{ sems | split: ", " | join: ", " }} |{% endfor %}
 
 
-| Course | Name | Semesters |
+<!-- | Course | Name | Semesters |
 |---|---|---|
 | L44 Ling 148 | The Linguistics of Constructed Languages | Fall 2019, 2020, 2021; Spring 2021; Summer 2021 |
 | L44 Ling 170D | Introduction to Linguistics | Fall 2019, 2020, Spring 2019, 2021 |
 | L44 Ling 312 | Phonetics | Spring 2019, 2020 |
 | L44 Ling 313 | Phonological Analysis | Fall 2019, 2020, 2021 |
 | L44 Ling 317 | Introduction to Computational Linguistics | Spring 2019, 2020, 2021 |
-| L44 Ling 427 | Computation and Learnability in Linguistic Theory | Fall 2021; Spring 2020 |
+| L44 Ling 427 | Computation and Learnability in Linguistic Theory | Fall 2021; Spring 2020 | -->
 
 ### Princeton University
 
