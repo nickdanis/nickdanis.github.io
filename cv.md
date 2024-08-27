@@ -43,7 +43,7 @@ filter wulist under
 
 {% assign wulist = wucourses | split: ", "  %}
 
-{{ wulist }}
+{{ wulist.size }}
 
 {{ wulist | uniq | join: " _ " }}
 
