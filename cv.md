@@ -43,7 +43,7 @@ last-updated: August 27, 2024
 
 | Course | Name | Semesters |
 |---|---|---|{% for item in wulist %}
-| {% assign num = item | truncatewords: 2,"" %}{{ num }} | {{ item | replace: num,"" }} | {% assign sem = site.syllabi | where: "title",item %} {% for s in sem %} {{ s }}, {% endfor %} |{% endfor %}
+| {% assign num = item | truncatewords: 2,"" %}{{ num }} | {{ item | replace: num,"" }} | {% assign sem = site.syllabi | where: "title",item %} {% for s in sem %} {{ s.semester }}, {% endfor %} |{% endfor %}
 
 
 <!-- | Course | Name | Semesters |
