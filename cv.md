@@ -34,7 +34,7 @@ last-updated: August 27, 2024
 
 ### Washington University in St. Louis
 
-assign sort and
+change br
 
 {% assign wucourses = "" %}
 {% for item in site.syllabi %}
@@ -44,10 +44,8 @@ assign sort and
 {% assign wulist = wucourses | split: ", " | uniq | sort  %}
 
 | Course | Semesters |
-|---|---|
-{% for item in wulist %}
-| {{ item }} | semesters |
-{% endfor %}
+|---|---|{% for item in wulist %}
+| {{ item }} | semesters |{% endfor %}
 
 
 | Course | Name | Semesters |
