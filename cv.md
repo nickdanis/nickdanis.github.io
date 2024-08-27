@@ -34,9 +34,7 @@ last-updated: August 27, 2024
 
 ### Washington University in St. Louis
 
-uniq newline
-where
-
+filter
 
 {% assign wucourses = "" %}
 {% for item in site.syllabi %}
