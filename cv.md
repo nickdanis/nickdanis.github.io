@@ -43,7 +43,11 @@ assign sort and
 
 {% assign wulist = wucourses | split: ", " | uniq | sort  %}
 
-{{ wulist | join: " and " }}
+| Course | Semesters |
+|---|---|
+{% for item in wulist %}
+| {{ item }} | semesters |
+{% endfor %}
 
 
 | Course | Name | Semesters |
