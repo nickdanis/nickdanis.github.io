@@ -34,16 +34,16 @@ last-updated: August 27, 2024
 
 ### Washington University in St. Louis
 
-filter
+filter wulist
 
 {% assign wucourses = "" %}
 {% for item in site.syllabi %}
   {{ wucourses | append: item.title | append: ", "}}
 {% endfor %}
 
-{{ wucourses }}
-
 {% assign wulist = wucourses | split: ", "  %}
+
+{{ wulist }}
 
 {{ wulist | uniq | join: ", " }}
 
