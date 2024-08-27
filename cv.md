@@ -40,10 +40,12 @@ where
 
 {% assign wucourses = "" %}
 {% for item in site.syllabi %}
-  {{ wucourses | append: item.title }}
+  {{ wucourses | append: item.title | append: ", "}}
 {% endfor %}
 
-{% assign wulist = site.syllabi  %}
+{{ wu courses }}
+
+{% assign wulist = wucourses | split: ", "  %}
 
 {{ wulist | uniq | join: ", " }}
 
