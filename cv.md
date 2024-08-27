@@ -45,7 +45,7 @@ change br
 
 | Course | Semesters |
 |---|---|{% for item in wulist %}
-| {{ item }} | semesters |{% endfor %}
+| {{ item }} | {% assign sem = site.syllabi | where: "title",item %} {{ sem }}|{% endfor %}
 
 
 | Course | Name | Semesters |
