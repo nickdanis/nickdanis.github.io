@@ -34,6 +34,8 @@ last-updated: August 27, 2024
 
 ### Washington University in St. Louis
 
+uniq
+
 {% assign wucourses = "" %}
 {% for item in site.syllabi %}
   {{ wucourses | append: item.title }}
@@ -41,7 +43,7 @@ last-updated: August 27, 2024
 
 {% assign wulist =  wucourses | split: "<br \>"  %}
 
-{{ wulist | uniq | join: ", "}}
+{{ wulist | uniq | join: ", " }}
 
 
 | Course | Name | Semesters |
