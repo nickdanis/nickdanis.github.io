@@ -34,11 +34,11 @@ last-updated: August 27, 2024
 
 ### Washington University in St. Louis
 
-filter wulist under
+assign
 
 {% assign wucourses = "" %}
 {% for item in site.syllabi %}
-  {{ wucourses | append: item.title | append: ", "}}
+  {% assign wucourses = wucourses | append: item.title | append: ", " %}
 {% endfor %}
 
 {% assign wulist = wucourses | split: ", "  %}
