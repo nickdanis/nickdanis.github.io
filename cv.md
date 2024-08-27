@@ -41,7 +41,7 @@ filter
   {{ wucourses | append: item.title | append: ", "}}
 {% endfor %}
 
-{{ wu courses }}
+{{ wucourses }}
 
 {% assign wulist = wucourses | split: ", "  %}
 
