@@ -39,7 +39,9 @@ last-updated: August 27, 2024
   {{ wucourses | append: item.title }}
 {% endfor %}
 
-{{ wucourses }}
+{% assign wulist =  wucourses | split: "<br \>"  %}
+
+{{ wulist | uniq | join: ", "}}
 
 
 | Course | Name | Semesters |
