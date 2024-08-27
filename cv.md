@@ -34,18 +34,16 @@ last-updated: August 27, 2024
 
 ### Washington University in St. Louis
 
-assign sort
+assign sort and
 
 {% assign wucourses = "" %}
 {% for item in site.syllabi %}
   {% assign wucourses = wucourses | append: item.title | append: ", " %}
 {% endfor %}
 
-{% assign wulist = wucourses | split: ", " | sort  %}
+{% assign wulist = wucourses | split: ", " | uniq | sort  %}
 
-{{ wulist.size }}
-
-{{ wulist | uniq | join: " _ " }}
+{{ wulist | join: " and " }}
 
 
 | Course | Name | Semesters |
