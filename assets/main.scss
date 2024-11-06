@@ -458,7 +458,7 @@ header.logo {
   }
 }
 
-@include media-query($on-palm) {
+@include media-query(600px) {
   cv-all.table {
     table-layout: auto;
     th {
