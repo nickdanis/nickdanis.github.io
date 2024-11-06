@@ -4,6 +4,10 @@
 * Danis, Nick. 2020. [Yoruba vowel deletion involves compensatory lengthening: evidence from phonetics](https://spilplus.journals.ac.za/pub/article/view/753). *Stellenbosch Papers in Linguistics Plus* 60. [[doi](https://doi.org/10.5842/60-0-753)]
 * Danis, Nick. 2019. [Long-distance major place harmony](https://www.cambridge.org/core/journals/phonology/article/abs/longdistance-major-place-harmony/7620003BF480A83F2C0A3B604989B62F). *Phonology* 36.4. 573-604.  [[doi](https://doi.org/10.1017/S0952675719000307), [lingbuzz](https://ling.auf.net/lingbuzz/004988), [ROA-1365](http://roa.rutgers.edu/content/article/files/1804_danis_1.pdf)]
 
+### Chapters
+
+* Akinlabi, Akinbiyi and Nick Danis. In press. "Nonlinear representations." To appear in Adam Jardine and Paul de Lacy (eds.), *The Cambridge Handbook of Phonology*, 2nd edition. 
+
 ### Conference Proceedings
 
 * Danis, Nick and Adam Jardine. 2019. "[Q-Theory Representations are Logically Equivalent to Autosegmental Representations](https://scholarworks.umass.edu/scil/vol2/iss1/5)," *Proceedings of the Society for Computation in Linguistics*: Vol. 2 , Article 5. [[doi](https://doi.org/10.7275/tvj1-k306)]
@@ -42,6 +46,8 @@
 
 ### Poster
 
+* Danis, Nick. 2024. [Logical transductions are not sufficient for notational equivalence](../assets/posters/danis2024-amp-poster.pdf). Poster presented at the Annual Meeting on Phonology (AMP) 2024. Rutgers University, November 1-3, 2024.
+* Danis, Nick. 2024. Logical transductions are not sufficient for notational equivalence. Poster presented at the 29th Mid-Continental Phonetics and Phonology Conference (MidPhon 29). University of Illinois at Urbana-Champaign, October 4–5, 2024. (See AMP 2024 link for poster PDF.)
 * Danis, Nick. 2020. [Phonology needs geometry: Implicit axioms in segmental representation](../assets/posters/danis2020-lsa-poster.pdf). Poster presented at the 2020 Annual Meeting of the LSA. 
 * Danis, Nick. [Cross-category agreement as reference to general dominance](../assets/posters/danis2018-amp-poster.pdf). AMP 2018, UC San Diego. Oct 5-7, 2018. Poster. [[conf. link](http://phonology.ucsd.edu/wp-content/uploads/sites/54/2018/10/Danis-poster.pdf)]
 * Danis, Nick, Jeffrey Heinz and Adam Jardine. 2018. [How constraints refer to nothing: The correct notion of substructure for phonology](../assets/posters/danis-et-al2018-lsa-poster.pdf). Poster that was present at the 2018 LSA. 
