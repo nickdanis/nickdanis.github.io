@@ -3,6 +3,8 @@ layout: project
 title: Comparing phonological representations
 ---
 
+This research program builds on the findings in mathematical linguistics in comparing linguistic representations using the tools of logic and finite model theory. 
+
 Supplemental material for Graduate Linguistic Expo at Michigan State (GLEAMS) keynote talk, October 28-29, 2022.
 
 * [Slides (PDF)](../assets/slides/danis2022-comparing-phonological-msu.pdf)
