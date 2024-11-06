@@ -275,11 +275,6 @@ li.tag-link {
   }
 }
 
-@include media-query($on-palm) {
-  cv-all.table {
-    table-layout: auto;
-  }
-}
 
 
 @media print, screen and (max-width: 1200px) {
@@ -406,6 +401,8 @@ header.logo {
  * CV
  */
 
+ 
+
 
 .cv-all {
   font-family: 'Crimson Text';
@@ -457,6 +454,15 @@ header.logo {
       &:nth-child(3) {
         width: 10em;
       }
+    }
+  }
+}
+
+@include media-query($on-palm) {
+  cv-all.table {
+    table-layout: auto;
+    th {
+      width: auto;
     }
   }
 }
