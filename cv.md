@@ -45,6 +45,17 @@ last-updated: August 27, 2024
 |---|---|---|{% for item in wulist %}
 | {% assign num = item | truncatewords: 2,"" %}{{ num }} | {{ item | replace: num,"" }} | {% assign sem = site.syllabi | where: "title",item %} {% assign terms = "" %} {% for s in sem %} {% assign terms = terms | append: s.semester | append: ", " %} {% endfor %} {{ terms | split: ", " | join: ", "}} |{% endfor %}
 
+{% assign wucourses = "" %}
+{% for item in site.syllabi %}
+  {% assign wucourses = wucourses | append: item.title | append: ", " %}
+{% endfor %}
+
+{% assign wulist = wucourses | split: ", " | uniq | sort  %}
+
+{% for item in wulist %}
+|* {{ item }} {% assign sem = site.syllabi | where: "title",item %} {% assign terms = "" %} {% for s in sem %} {% assign terms = terms | append: s.semester | append: ", " %} {% endfor %} 
+  * *{{ terms | split: ", " | join: ", "}}* {% endfor %}
+
 ### Princeton University
 
 * LIN201 Introduction to Language and Linguistics (preceptor)
@@ -60,7 +71,7 @@ last-updated: August 27, 2024
 * 01:615:190 Linguistic Perspectives on Language: Invented Languages
   * *Fall 2016; Spring 2016, 2017*
 * 01:615:201 Introduction to Linguistic Theory
-  * *Fall 2013 (TA); Spring 2014; Summer 2015* |
+  * *Fall 2013 (TA); Spring 2014; Summer 2015*
 
 ## Field Experience
 
