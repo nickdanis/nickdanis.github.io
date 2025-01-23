@@ -34,7 +34,7 @@ last-updated: August 27, 2024
 
 ### Washington University in St. Louis
 
-{% assign wucourses = "" %}
+<!-- {% assign wucourses = "" %}
 {% for item in site.syllabi %}
   {% assign wucourses = wucourses | append: item.title | append: ", " %}
 {% endfor %}
@@ -43,7 +43,7 @@ last-updated: August 27, 2024
 
 | Course | Name | Semesters |
 |---|---|---|{% for item in wulist %}
-| {% assign num = item | truncatewords: 2,"" %}{{ num }} | {{ item | replace: num,"" }} | {% assign sem = site.syllabi | where: "title",item %} {% assign terms = "" %} {% for s in sem %} {% assign terms = terms | append: s.semester | append: ", " %} {% endfor %} {{ terms | split: ", " | join: ", "}} |{% endfor %}
+| {% assign num = item | truncatewords: 2,"" %}{{ num }} | {{ item | replace: num,"" }} | {% assign sem = site.syllabi | where: "title",item %} {% assign terms = "" %} {% for s in sem %} {% assign terms = terms | append: s.semester | append: ", " %} {% endfor %} {{ terms | split: ", " | join: ", "}} |{% endfor %} -->
 
 {% assign wucourses = "" %}
 {% for item in site.syllabi %}
@@ -53,7 +53,7 @@ last-updated: August 27, 2024
 {% assign wulist = wucourses | split: ", " | uniq | sort  %}
 
 {% for item in wulist %}
-|* {{ item }} {% assign sem = site.syllabi | where: "title",item %} {% assign terms = "" %} {% for s in sem %} {% assign terms = terms | append: s.semester | append: ", " %} {% endfor %} 
+* {{ item }} {% assign sem = site.syllabi | where: "title",item %} {% assign terms = "" %} {% for s in sem %} {% assign terms = terms | append: s.semester | append: ", " %} {% endfor %} 
   * *{{ terms | split: ", " | join: ", "}}* {% endfor %}
 
 ### Princeton University
