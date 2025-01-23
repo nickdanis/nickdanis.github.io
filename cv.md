@@ -47,22 +47,20 @@ last-updated: August 27, 2024
 
 ### Princeton University
 
-| Course | Name | Semesters |
-|---|---|---|
-| LIN201 | Introduction to Language and Linguistics (preceptor) | Fall 2018; Spring 2018 |
+* LIN201 Introduction to Language and Linguistics (preceptor)
+  * *Fall 2018; Spring 2018* 
 
 ### Rowan University
 
-| Course | Name | Semesters |
-|---|---|---|
-| CMS 04326 | Linguistics | Spring 2018 |
+* CMS 04326 Linguistics
+  * *Spring 2018*
 
 ### Rutgers University
 
-| Course | Name | Semesters |
-|---|---|---|
-| 01:615:190 | Linguistic Perspectives on Language: Invented Languages | Fall 2016; Spring 2016, 2017 |
-| 01:615:201 | Introduction to Linguistic Theory | Fall 2013 (TA); Spring 2014; Summer 2015 |
+* 01:615:190 Linguistic Perspectives on Language: Invented Languages
+  * *Fall 2016; Spring 2016, 2017*
+* 01:615:201 Introduction to Linguistic Theory
+  * *Fall 2013 (TA); Spring 2014; Summer 2015* |
 
 ## Field Experience
 
