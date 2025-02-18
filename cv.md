@@ -1,12 +1,12 @@
 ---
 layout: cv
 title: CV
-last-updated: August 27, 2024
+last-updated: February 17, 2025
 ---
 
 ## Research interests
 
-* Phonology, Optimality Theory, Computational linguistics, African languages
+* Phonology, Optimality Theory, computational and mathematical linguistics, African languages
 
 ## Academic Positions
 
@@ -81,6 +81,7 @@ last-updated: August 27, 2024
 
 ### Reviewing
 
+* 2024, *Nordic Journal of African Studies*
 * 2021, *Stellenbosch Papers in Linguistics Plus*
 * 2020, *Natural Language and Linguistic Theory*
 * 2018-2020, *Phonology*
@@ -118,13 +119,14 @@ last-updated: August 27, 2024
 ### Technical
 
 * ◾◾◾◾◾ OTWorkplace/VBA
-* ◾◾◾◾◽ Python 
+* ◾◾◾◾◾ Python 
   * ◾◾◾◾◽ nltk 
-  * ◾◾◾◽◽ pandas/matplotlib
+  * ◾◾◾◾◽ pandas/matplotlib
   * ◾◾◽◽◽ flask
   * ◾◾◽◽◽ sklearn
   * ◾◾◽◽◽ scipy
 * ◾◾◾◾◽ Praat
 * ◾◾◾◾◽ LaTeX 
+* ◾◾◾◽◽ R
 * ◾◾◾◽◽ HTML/CSS
 {: #skill-list}
