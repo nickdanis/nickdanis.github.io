@@ -12,10 +12,11 @@ last-updated: February 17, 2025
 
 ### Current
 
-* Lecturer, Washington University in St. Louis (since 2019)
+* Senior Lecturer, Washington University in St. Louis (since 2025)
 
 ### Previous
 
+* 2019-2025, Lecturer, Washington University in St. Louis 
 * 2017-2019, Lecturer, Princeton University (10%-60% FTE)
 * 2018, Adjunct Professor, Rowan University
 
