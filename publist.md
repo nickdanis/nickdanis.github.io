@@ -10,6 +10,7 @@
 
 ### Conference Proceedings
 
+* Danis, Nick. 2025. "[Logical transductions are not sufficient for notational equivalence](https://openpublishing.library.umass.edu/amphonology/article/id/3022/)," Proceedings of the 2023 and 2024 Annual Meetings on Phonology. [[doi](https://doi.org/10.7275/amphonology.3022)]
 * Danis, Nick and Adam Jardine. 2019. "[Q-Theory Representations are Logically Equivalent to Autosegmental Representations](https://scholarworks.umass.edu/scil/vol2/iss1/5)," *Proceedings of the Society for Computation in Linguistics*: Vol. 2 , Article 5. [[doi](https://doi.org/10.7275/tvj1-k306)]
 * Danis, Nick. 2017. [Major place harmony in ABC and the (reduced) role of representation: evidence from Ngbaka](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/3980). In Karen Jesney, Charlie O’Hara, Caitlin Smith and Rachel Walker (eds.), *Proceedings of the 2016 Annual Meeting on Phonology*. Washington, DC: Linguistic Society of America. [[doi](http://dx.doi.org/10.3765/amp.v4i0.3980), [lingbuzz](https://ling.auf.net/lingbuzz/003299), [ROA-1302](http://roa.rutgers.edu/article/view/1607)]
 * Danis, Nick. 2017. Markedness and Complex Stops: Evidence from Simplification Processes. In Shigeki Kaji (ed.), *Proceedings of the 8th World Congress of African Languages Kyoto 2015*, 25–43. Tokyo University of Foreign Studies: Research Institute for Languages and Cultures of Asia and Africa. [[ROA-1303](http://roa.rutgers.edu/article/view/1609)]
