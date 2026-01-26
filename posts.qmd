@@ -1,0 +1,7 @@
+---
+title: "Posts"
+page-layout: full
+listing:
+    contents: posts
+    categories: true
+---

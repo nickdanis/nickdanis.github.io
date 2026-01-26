@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+## Theory comparison
+
+What is the range of ways that two theories of phonological representations can differ in their logical power/expressivity? Despite the results that many representations are very close in their computational power, there are still differences among them in how they encode information relevant for their respective grammatical frameworks: what contrasts are encoded, what natural classes are predicted, and so on. This research program builds on the purely logical approach using mathematical logic and finite model theory and incorporates additional modes of comparisons across these linguistically relevant domains. The result is an overall more informative comparison of theories that includes both results for expressivity and framework-specific properties.
+
+
+### Representative work
+
+* Jardine, Adam, Nick Danis, and Luca Iacoponi. 2021. [A formal investigation of Q-Theory in comparison to Autosegmental Representations](https://www.mitpressjournals.org/doi/abs/10.1162/ling_a_00376). *Linguistic Inquiry* 52.2. [[doi](https://doi.org/10.1162/ling_a_00376), [lingbuzz]()]
+* Danis, Nick. 2025. "[Logical transductions are not sufficient for notational equivalence](https://openpublishing.library.umass.edu/amphonology/article/id/3022/)," In Gérard Avelino, Merlin Balihaxi, Quartz Colvin, Vincent Czarnecki, Hyunjung Joo, Chenli Wang, Utku Zobarlar, Adam Jardine and Adam McCollum (eds.), *Proceedings of the 2023 and 2024 Annual Meetings on Phonology (Supplemental)*. [[doi](https://doi.org/10.7275/amphonology.3022)]
+* Danis, Nick and Adam Jardine. 2019. "[Q-Theory Representations are Logically Equivalent to Autosegmental Representations](https://scholarworks.umass.edu/scil/vol2/iss1/5)," *Proceedings of the Society for Computation in Linguistics*: Vol. 2 , Article 5. [[doi](https://doi.org/10.7275/tvj1-k306)]
+* Danis, Nick. 2026. [Representing phonology in the formal comparison of phonological representations](/assets/slides/danis-ocp26-slides.pdf). Keynote speaker, [Workshop on The Role of Representation in Computational Phonology](https://www.phonetics.mmll.cam.ac.uk/ocp23/representation). [OCP23](https://www.phonetics.mmll.cam.ac.uk/ocp23) satellite workshop. University of Cambridge, January 13, 2026.
+* Danis, Nick. 2024. [Comparing representations: Towards a strong generative capacity for phonology](/assets/slides/danis2024-comparing-phonological-ruling.pdf). Invited speaker, RULing 2024, Rutgers University, May 3, 2024. [[python supplement](https://github.com/nickdanis/autosegx/blob/master/danis-ruling2024.ipynb)]
+
+## Complex place
+
+
+
+### Representative work
+
+* Danis, Nick. 2019. [Long-distance major place harmony](https://www.cambridge.org/core/journals/phonology/article/abs/longdistance-major-place-harmony/7620003BF480A83F2C0A3B604989B62F). *Phonology* 36.4. 573-604.  [[doi](https://doi.org/10.1017/S0952675719000307), [lingbuzz](https://ling.auf.net/lingbuzz/004988), [ROA-1365](http://roa.rutgers.edu/content/article/files/1804_danis_1.pdf)]
+* Danis, Nick. 2017. Markedness and Complex Stops: Evidence from Simplification Processes. In Shigeki Kaji (ed.), *Proceedings of the 8th World Congress of African Languages Kyoto 2015*, 25–43. Tokyo University of Foreign Studies: Research Institute for Languages and Cultures of Asia and Africa. [[ROA-1303](http://roa.rutgers.edu/article/view/1609)]
+* Danis, Nick. 2017. *Complex place and place identity*. PhD Dissertation, Rutgers University. Chair: Akin Akinlabi. [[doi](https://doi.org/doi:10.7282/T38055PH), [lingbuzz](https://ling.auf.net/lingbuzz/003693), [ROA-1324](http://roa.rutgers.edu/article/view/1695)]
+* Danis, Nick. 2014. Deriving Interactions of Complex Stops. Ms., Rutgers University. Second Qualifying Paper. Committee: Alan Prince (Chair), Bruce Tesar, Akin Akinlabi. [[ROA-1220](http://roa.rutgers.edu/article/view/1362), [ROA-1221](http://roa.rutgers.edu/article/view/1363) ([OTWorkplace](https://sites.google.com/site/otworkplace/) Supplement)]
+
+

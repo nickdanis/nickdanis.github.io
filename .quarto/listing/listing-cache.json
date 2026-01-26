@@ -1,0 +1,10 @@
+{
+  "listingMap": {
+    "posts.qmd": [
+      "posts"
+    ],
+    "teaching.qmd": [
+      "syllabi"
+    ]
+  }
+}

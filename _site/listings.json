@@ -1,0 +1,55 @@
+[
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/syllabi/ling1600-sp2026-syllabus.html",
+      "/syllabi/ling3250-sp2026-syllabus.html",
+      "/syllabi/ling4250-sp2026-syllabus.html",
+      "/syllabi/ling148-fa2019-syllabus.html",
+      "/syllabi/ling148-fa2020-syllabus.html",
+      "/syllabi/ling148-fa2021-syllabus.html",
+      "/syllabi/ling148-fa2024-syllabus.html",
+      "/syllabi/ling148-sp2023-syllabus.html",
+      "/syllabi/ling148-sp2024-syllabus.html",
+      "/syllabi/ling170d-fa2019-syllabus.html",
+      "/syllabi/ling170d-fa2020-syllabus.html",
+      "/syllabi/ling170d-fa2022-syllabus.html",
+      "/syllabi/ling170d-fa2023-syllabus.html",
+      "/syllabi/ling170d-sp2019-syllabus.html",
+      "/syllabi/ling170d-sp2021-syllabus.html",
+      "/syllabi/ling170d-sp2023-syllabus.html",
+      "/syllabi/ling170d-sp2024-syllabus.html",
+      "/syllabi/ling170d-sp2025-syllabus.html",
+      "/syllabi/ling258-fa2024-syllabus.html",
+      "/syllabi/ling312-sp2019-syllabus.html",
+      "/syllabi/ling312-sp2020-syllabus.html",
+      "/syllabi/ling313-fa2019-syllabus.html",
+      "/syllabi/ling313-fa2020-syllabus.html",
+      "/syllabi/ling313-fa2021-syllabus.html",
+      "/syllabi/ling313-fa2022-syllabus.html",
+      "/syllabi/ling313-fa2024-syllabus.html",
+      "/syllabi/ling317-sp2019-syllabus.html",
+      "/syllabi/ling317-sp2020-syllabus.html",
+      "/syllabi/ling317-sp2021-syllabus.html",
+      "/syllabi/ling317-sp2023-syllabus.html",
+      "/syllabi/ling317-sp2024-syllabus.html",
+      "/syllabi/ling317-sp2025-syllabus.html",
+      "/syllabi/ling427-fa2021-syllabus.html",
+      "/syllabi/ling427-fa2022-syllabus.html",
+      "/syllabi/ling427-sp2020-syllabus.html",
+      "/syllabi/ling495-fa2023-syllabus.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2021-05-03-exhaustive-list-of-all-iso-morphic.html",
+      "/posts/2021-06-03-how-to-make-a-vowel-chart-using-matplotlib.html",
+      "/posts/2020-12-27-how-send-canvas-announcement-email-app.html",
+      "/posts/2021-04-27-how-to-write-phonological-rule.html",
+      "/posts/2021-06-16-instantly-making-pdfs-graphviz-markdown-files-vscode.html",
+      "/posts/2021-06-05-predicting-difficulty-new-york-times-crossword-puzzles.html",
+      "/posts/2020-03-07-typing-ipa-symbols.html"
+    ]
+  }
+]

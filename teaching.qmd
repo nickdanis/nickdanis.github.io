@@ -1,0 +1,35 @@
+---
+title: "Teaching"
+listing:
+  - id: current-sem
+    contents: syllabi
+    type: grid
+    fields: [title, author]
+    sort-ui: false
+    filter-ui: false
+    field-display-names:
+      author: "Semester"
+    include:
+      author: "2026 Spring"
+  - id: syllabus
+    contents: syllabi
+    type: table
+    fields: [title, author]
+    page-size: 25
+    field-display-names:
+        author: "Semester"
+---
+
+## Spring 2026
+
+My office hours this semester are Fridays 10-11am in January 206. Syllabi for the current semester can be accessed below:
+
+:::{#current-sem}
+:::
+
+## Archive
+
+All of my previous syllabi since 2019 are archived below. Note that all courses were renumbered university-wide starting with the Fall 2025 semester. 
+
+:::{#syllabus}
+:::

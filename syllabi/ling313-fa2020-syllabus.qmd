@@ -1,0 +1,9 @@
+
+---
+title: LING 313 Phonological Analysis
+author: 2020 Fall
+description: ""
+---
+
+{{< pdf ling313-fa2020-syllabus.pdf button="Download" width=100% height=1000 >}}
+

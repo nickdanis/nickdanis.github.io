@@ -1,0 +1,10 @@
+---
+title: "Syllabus Archive"
+listing:
+    contents: syllabi
+    type: table
+    fields: [title, author]
+    page-size: 50
+    field-display-names:
+        author: "Semester"
+---

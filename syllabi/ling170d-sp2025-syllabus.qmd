@@ -1,0 +1,9 @@
+
+---
+title: LING 170D Introduction to Linguistics
+author: 2025 Spring
+description: ""
+---
+
+{{< pdf ling170d-sp2025-syllabus.pdf button="Download" width=100% height=1000 >}}
+

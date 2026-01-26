@@ -1,0 +1,9 @@
+
+---
+title: LING 258 Methods in Linguistic Research
+author: 2024 Fall
+description: ""
+---
+
+{{< pdf ling258-fa2024-syllabus.pdf button="Download" width=100% height=1000 >}}
+

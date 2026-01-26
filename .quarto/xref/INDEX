@@ -1,0 +1,167 @@
+{
+  "about.qmd": {
+    "about.html": "34df0de1"
+  },
+  "index.qmd": {
+    "index.html": "74b89de8"
+  },
+  "publications.qmd": {
+    "publications.html": "613b30a0"
+  },
+  "research.qmd": {
+    "research.html": "d6205974"
+  },
+  "teaching.qmd": {
+    "teaching.html": "e179589d"
+  },
+  "syllabi.qmd": {
+    "syllabi.html": "4e9fe4d0"
+  },
+  "syllabi/teaching.qmd": {
+    "teaching.html": "9ed29192"
+  },
+  "syllabi/ling1600-sp26-syllabus.qmd": {
+    "ling1600-sp26-syllabus.html": "b439652d"
+  },
+  "syllabi/ling1600-sp2026-syllabus.qmd": {
+    "ling1600-sp2026-syllabus.html": "20d900a0"
+  },
+  "fromsite/ling1600-sp2026-syllabus.qmd": {
+    "ling1600-sp2026-syllabus.html": "49ad23a3"
+  },
+  "syllabi/ling148-fa2019-syllabus.qmd": {
+    "ling148-fa2019-syllabus.html": "329ca460"
+  },
+  "syllabi/ling148-fa2020-syllabus.qmd": {
+    "ling148-fa2020-syllabus.html": "a34ac18a"
+  },
+  "syllabi/ling148-fa2021-syllabus.qmd": {
+    "ling148-fa2021-syllabus.html": "f2234e56"
+  },
+  "syllabi/ling148-fa2024-syllabus.qmd": {
+    "ling148-fa2024-syllabus.html": "266cb910"
+  },
+  "syllabi/ling148-sp2023-syllabus.qmd": {
+    "ling148-sp2023-syllabus.html": "544396d4"
+  },
+  "syllabi/ling148-sp2024-syllabus.qmd": {
+    "ling148-sp2024-syllabus.html": "ddc17d45"
+  },
+  "syllabi/ling170d-fa2019-syllabus.qmd": {
+    "ling170d-fa2019-syllabus.html": "119e0910"
+  },
+  "syllabi/ling170d-fa2020-syllabus.qmd": {
+    "ling170d-fa2020-syllabus.html": "27a71faf"
+  },
+  "syllabi/ling170d-fa2022-syllabus.qmd": {
+    "ling170d-fa2022-syllabus.html": "8ba9329b"
+  },
+  "syllabi/ling170d-fa2023-syllabus.qmd": {
+    "ling170d-fa2023-syllabus.html": "1f4a24cf"
+  },
+  "syllabi/ling170d-sp2019-syllabus.qmd": {
+    "ling170d-sp2019-syllabus.html": "2fffb6e8"
+  },
+  "syllabi/ling170d-sp2021-syllabus.qmd": {
+    "ling170d-sp2021-syllabus.html": "1c179235"
+  },
+  "syllabi/ling170d-sp2023-syllabus.qmd": {
+    "ling170d-sp2023-syllabus.html": "42ebd7f0"
+  },
+  "syllabi/ling170d-sp2024-syllabus.qmd": {
+    "ling170d-sp2024-syllabus.html": "43ec5b35"
+  },
+  "syllabi/ling170d-sp2025-syllabus.qmd": {
+    "ling170d-sp2025-syllabus.html": "1069ac7f"
+  },
+  "syllabi/ling258-fa2024-syllabus.qmd": {
+    "ling258-fa2024-syllabus.html": "115ebd3c"
+  },
+  "syllabi/ling312-sp2019-syllabus.qmd": {
+    "ling312-sp2019-syllabus.html": "a0c0c08c"
+  },
+  "syllabi/ling312-sp2020-syllabus.qmd": {
+    "ling312-sp2020-syllabus.html": "bc78f791"
+  },
+  "syllabi/ling313-fa2019-syllabus.qmd": {
+    "ling313-fa2019-syllabus.html": "46096672"
+  },
+  "syllabi/ling313-fa2020-syllabus.qmd": {
+    "ling313-fa2020-syllabus.html": "b87bd734"
+  },
+  "syllabi/ling313-fa2021-syllabus.qmd": {
+    "ling313-fa2021-syllabus.html": "8403bf1b"
+  },
+  "syllabi/ling313-fa2022-syllabus.qmd": {
+    "ling313-fa2022-syllabus.html": "68c5766d"
+  },
+  "syllabi/ling313-fa2024-syllabus.qmd": {
+    "ling313-fa2024-syllabus.html": "187f74d8"
+  },
+  "syllabi/ling317-sp2019-syllabus.qmd": {
+    "ling317-sp2019-syllabus.html": "5a194168"
+  },
+  "syllabi/ling317-sp2020-syllabus.qmd": {
+    "ling317-sp2020-syllabus.html": "f6be7a8b"
+  },
+  "syllabi/ling317-sp2021-syllabus.qmd": {
+    "ling317-sp2021-syllabus.html": "5b822da5"
+  },
+  "syllabi/ling317-sp2023-syllabus.qmd": {
+    "ling317-sp2023-syllabus.html": "1c059bcd"
+  },
+  "syllabi/ling317-sp2024-syllabus.qmd": {
+    "ling317-sp2024-syllabus.html": "ec382d69"
+  },
+  "syllabi/ling317-sp2025-syllabus.qmd": {
+    "ling317-sp2025-syllabus.html": "6eb580a1"
+  },
+  "syllabi/ling3250-sp2026-syllabus.qmd": {
+    "ling3250-sp2026-syllabus.html": "a40c1b3d"
+  },
+  "syllabi/ling4250-sp2026-syllabus.qmd": {
+    "ling4250-sp2026-syllabus.html": "31182e1a"
+  },
+  "syllabi/ling427-fa2021-syllabus.qmd": {
+    "ling427-fa2021-syllabus.html": "7edab5db"
+  },
+  "syllabi/ling427-fa2022-syllabus.qmd": {
+    "ling427-fa2022-syllabus.html": "5f5a95f0"
+  },
+  "syllabi/ling427-sp2020-syllabus.qmd": {
+    "ling427-sp2020-syllabus.html": "942c12c4"
+  },
+  "syllabi/ling495-fa2023-syllabus.qmd": {
+    "ling495-fa2023-syllabus.html": "05873a6a"
+  },
+  "cv.qmd": {
+    "cv.html": "c96cf5e6"
+  },
+  "posts/2020-03-07-typing-ipa-symbols.qmd": {
+    "2020-03-07-typing-ipa-symbols.html": "76ca0bc0"
+  },
+  "posts.qmd": {
+    "posts.html": "906a6b50"
+  },
+  "posts/2020-12-27-how-send-canvas-announcement-email-app.qmd": {
+    "2020-12-27-how-send-canvas-announcement-email-app.html": "b8ce694c"
+  },
+  "posts/2021-04-27-how-to-write-phonological-rule.qmd": {
+    "2021-04-27-how-to-write-phonological-rule.html": "f25510c6"
+  },
+  "posts/2021-05-03-exhaustive-list-of-all-iso-morphic.qmd": {
+    "2021-05-03-exhaustive-list-of-all-iso-morphic.html": "f4a0a099"
+  },
+  "posts/2021-06-03-how-to-make-a-vowel-chart-using-matplotlib.qmd": {
+    "2021-06-03-how-to-make-a-vowel-chart-using-matplotlib.html": "bdc9374a"
+  },
+  "posts/2021-06-05-predicting-difficulty-new-york-times-crossword-puzzles.qmd": {
+    "2021-06-05-predicting-difficulty-new-york-times-crossword-puzzles.html": "1151830c"
+  },
+  "posts/2021-06-16-instantly-making-pdfs-graphviz-markdown-files-vscode.qmd": {
+    "2021-06-16-instantly-making-pdfs-graphviz-markdown-files-vscode.html": "24778245"
+  },
+  "assets/code/natural_class_extensions.ipynb": {
+    "natural_class_extensions.html": "14557aa6"
+  }
+}

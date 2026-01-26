@@ -1,0 +1,9 @@
+
+---
+title: LING 427 Computation and Learnability in Linguistic Theory
+author: 2020 Spring
+description: ""
+---
+
+{{< pdf ling427-sp2020-syllabus.pdf button="Download" width=100% height=1000 >}}
+

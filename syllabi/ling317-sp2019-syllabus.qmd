@@ -1,0 +1,9 @@
+
+---
+title: LING 317 Introduction to Computational Linguistics
+author: 2019 Spring
+description: ""
+---
+
+{{< pdf ling317-sp2019-syllabus.pdf button="Download" width=100% height=1000 >}}
+

@@ -1,0 +1,9 @@
+
+---
+title: LING 495 Senior Seminar in Optimality Theory
+author: 2023 Fall
+description: ""
+---
+
+{{< pdf ling495-fa2023-syllabus.pdf button="Download" width=100% height=1000 >}}
+

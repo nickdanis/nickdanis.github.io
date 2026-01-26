@@ -1,0 +1,9 @@
+
+---
+title: LING 427 Computation and Learnability in Linguistic Theory
+author: 2021 Fall
+description: ""
+---
+
+{{< pdf ling427-fa2021-syllabus.pdf button="Download" width=100% height=1000 >}}
+
