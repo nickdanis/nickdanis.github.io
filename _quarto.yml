@@ -6,8 +6,10 @@ website:
   favicon: icon.png
   navbar:
     search: false
-    background: white
+    background: black
     right:
+      - text: "About"
+        href: index.qmd
       - teaching.qmd
       - research.qmd
       - publications.qmd
@@ -17,7 +19,9 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: 
+      - journal
+      - custom.scss
     css: styles.css
     toc: true
     toc-title: ""
