@@ -1,5 +1,7 @@
 ---
 title: "Teaching"
+aliases:
+  - /teaching/
 listing:
   - id: current-sem
     contents: syllabi
@@ -10,7 +12,7 @@ listing:
     field-display-names:
       author: "Semester"
     include:
-      author: "2026 Spring"
+      author: "2026 Fall"
   - id: syllabus
     contents: syllabi
     type: table
@@ -20,9 +22,9 @@ listing:
         author: "Semester"
 ---
 
-## Spring 2026
+## Fall 2026
 
-My office hours this semester are Fridays 10-11am in January 206. Syllabi for the current semester can be accessed below:
+My office hours this semester are Thursdays 12:30-1:30pm in January 206. Syllabi for the current semester can be accessed below:
 
 :::{#current-sem}
 :::

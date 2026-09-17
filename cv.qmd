@@ -1,5 +1,7 @@
 ---
 title: "CV"
+aliases:
+    - /cv/
 ---
 
 {{< pdf pdfs/cv-danis.pdf button="Download" width=100% height=1000 >}}

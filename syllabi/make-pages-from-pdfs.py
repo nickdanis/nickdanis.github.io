@@ -8,12 +8,15 @@ dates = {}
 
 course_dict = {
     'LING 148': 'The Linguistics of Constructed Languages', 
+    'LING 1526': 'The Linguistics of Constructed Languages', 
     'LING 170D': 'Introduction to Linguistics',
     'LING 1600': 'Introduction to Linguistics', 
     'LING 313': 'Phonological Analysis', 
     'LING 427': 'Computation and Learnability in Linguistic Theory',
     'LING 4250': 'Computation and Learnability in Linguistic Theory', 
     'LING 495': 'Senior Seminar in Optimality Theory', 
+    'LING 4850': 'Senior Seminar, Constructed Languages', 
+    'LING 2550': 'Methods in Linguistic Research', 
     'LING 258': 'Methods in Linguistic Research', 
     'LING 312': 'Phonetics', 
     'LING 317': 'Introduction to Computational Linguistics',

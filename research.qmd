@@ -1,5 +1,7 @@
 ---
 title: "Research"
+aliases:
+    - /research/
 ---
 
 ## Theory comparison

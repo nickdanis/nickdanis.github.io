@@ -1,5 +1,7 @@
 ---
 title: "Posts"
+aliases:
+    - /posts/
 page-layout: full
 listing:
     contents: posts
